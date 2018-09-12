@@ -1,0 +1,41 @@
+\documentclass[11pt,letterpaper]{book}
+%-----------PAQUETES----------------------
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{color}
+%-----------PORTADA-----------------------
+\title{ARQUITECTURA EMPRESARIAL}
+\author{Sandro Bolaños}
+%-----------CUERPO------------------------
+\begin{document}
+\maketitle
+\tableofcontents
+\listoffigures	
+\input{macros}	
+\part{PROYECTO}
+\include{proyecto/anteproyecto}  %seminario
+\include{proyecto/metodologia}   %software I
+\part{ARQUITECTURA Y DISEÑO}
+%---------arquitectura--------------------
+\include{arquitectura_diseno/organizacion}
+\include{arquitectura_diseno/archimate_adm}
+\include{arquitectura_diseno/negocio}
+\include{arquitectura_diseno/software}
+\include{arquitectura_diseno/tecnologia}
+\include{arquitectura_diseno/motivacion}
+\include{arquitectura_diseno/migracion}
+%----------diseño-------------------------
+\include{arquitectura_diseno/patrones}
+\include{arquitectura_diseno/creacionales}
+\include{arquitectura_diseno/estructurales}
+\include{arquitectura_diseno/comportamiento}
+\part{CONSIDERACIONES FINALES}
+\include{consideraciones/reflexiones}
+%----------bibliografia-------------------
+\bibliographystyle{plain}
+\bibliography{bibliografia/libros,bibliografia/articulos}
+%-----------------------------------------
+\appendix
+\include{consideraciones/anexos}
+\end{document}
