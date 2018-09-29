@@ -1,143 +1,161 @@
 \babel@toc {spanish}{}
 \contentsline {part}{I\hspace {1em}PROYECTO}{11}
 \contentsline {chapter}{\numberline {1}Proyecto}{13}
-\contentsline {section}{\numberline {1.1}Introducci\IeC {\'o}n}{13}
-\contentsline {chapter}{\numberline {2}Metodolog\IeC {\'\i }a}{15}
-\contentsline {section}{\numberline {2.1}Introducci\IeC {\'o}n}{15}
-\contentsline {section}{\numberline {2.2}Scrum}{16}
-\contentsline {section}{\numberline {2.3}Cronograma}{17}
-\contentsline {part}{II\hspace {1em}ARQUITECTURA Y DISE\IeC {\~N}O}{19}
-\contentsline {chapter}{\numberline {3}Organizaci\IeC {\'o}n}{21}
-\contentsline {section}{\numberline {3.1}Introducci\IeC {\'o}n}{21}
-\contentsline {section}{\numberline {3.2}Nombre de la Organizaci\IeC {\'o}n}{22}
-\contentsline {section}{\numberline {3.3}Misi\IeC {\'o}n}{22}
-\contentsline {section}{\numberline {3.4}Visi\IeC {\'o}n}{22}
-\contentsline {section}{\numberline {3.5}Objetivos Organizacionales}{22}
-\contentsline {section}{\numberline {3.6}Organigrama}{23}
-\contentsline {section}{\numberline {3.7}Funciones del Negocio}{24}
-\contentsline {section}{\numberline {3.8}Procesos del negocio}{25}
-\contentsline {section}{\numberline {3.9}Servicios}{26}
-\contentsline {section}{\numberline {3.10}Productos}{27}
-\contentsline {chapter}{\numberline {4}Lenguaje y M\IeC {\'e}todo}{29}
-\contentsline {section}{\numberline {4.1}Introducci\IeC {\'o}n}{29}
-\contentsline {section}{\numberline {4.2}Archimate}{30}
-\contentsline {section}{\numberline {4.3}Tabla de Negocio}{31}
-\contentsline {section}{\numberline {4.4}Tabla de Aplicaci\IeC {\'o}n}{34}
-\contentsline {section}{\numberline {4.5}Tabla de Tecnolog\IeC {\'\i }a}{35}
-\contentsline {section}{\numberline {4.6}Tabla de Relaciones}{37}
-\contentsline {section}{\numberline {4.7}Tabla de Motivaci\IeC {\'o}n Migraci\IeC {\'o}n}{39}
-\contentsline {section}{\numberline {4.8}ADM}{40}
-\contentsline {chapter}{\numberline {5}Negocio}{41}
-\contentsline {section}{\numberline {5.1}Introducci\IeC {\'o}n}{41}
-\contentsline {section}{\numberline {5.2}Punto de Vista de Organizaci\IeC {\'o}n}{42}
-\contentsline {subsection}{\numberline {5.2.1}Modelo}{42}
-\contentsline {subsection}{\numberline {5.2.2}Caso}{43}
-\contentsline {section}{\numberline {5.3}Punto de Vista de Cooperaci\IeC {\'o}n de Actor}{44}
-\contentsline {subsection}{\numberline {5.3.1}Modelo}{44}
-\contentsline {subsection}{\numberline {5.3.2}Caso}{45}
-\contentsline {section}{\numberline {5.4}Punto de Vista de Funci\IeC {\'o}n Negocio}{46}
-\contentsline {subsection}{\numberline {5.4.1}Modelo}{46}
-\contentsline {subsection}{\numberline {5.4.2}Caso}{47}
-\contentsline {section}{\numberline {5.5}Punto de Vista de Proceso}{48}
-\contentsline {subsection}{\numberline {5.5.1}Modelo}{48}
-\contentsline {subsection}{\numberline {5.5.2}Caso}{49}
-\contentsline {section}{\numberline {5.6}Punto de Vista de Cooperaci\IeC {\'o}n de Proceso}{50}
-\contentsline {subsection}{\numberline {5.6.1}Modelo}{50}
-\contentsline {subsection}{\numberline {5.6.2}Caso}{51}
-\contentsline {section}{\numberline {5.7}Punto de Vista de Producto}{52}
-\contentsline {subsection}{\numberline {5.7.1}Modelo}{52}
-\contentsline {subsection}{\numberline {5.7.2}Caso}{53}
-\contentsline {chapter}{\numberline {6}Aplicaci\IeC {\'o}n}{55}
-\contentsline {section}{\numberline {6.1}Introducci\IeC {\'o}n}{55}
-\contentsline {section}{\numberline {6.2}Punto de Vista de Comportamiento}{56}
-\contentsline {subsection}{\numberline {6.2.1}Modelo}{56}
-\contentsline {subsection}{\numberline {6.2.2}Caso}{57}
-\contentsline {section}{\numberline {6.3}Punto de Vista de Cooperaci\IeC {\'o}n de aplicaci\IeC {\'o}n}{58}
-\contentsline {subsection}{\numberline {6.3.1}Modelo}{58}
-\contentsline {subsection}{\numberline {6.3.2}Caso}{59}
-\contentsline {section}{\numberline {6.4}Punto de Vista de Estructura de Aplicaci\IeC {\'o}n}{60}
-\contentsline {subsection}{\numberline {6.4.1}Modelo}{60}
-\contentsline {subsection}{\numberline {6.4.2}Caso}{61}
-\contentsline {section}{\numberline {6.5}Punto de Vista de Uso de Aplicaci\IeC {\'o}n}{62}
-\contentsline {subsection}{\numberline {6.5.1}Modelo}{62}
-\contentsline {subsection}{\numberline {6.5.2}Caso}{63}
-\contentsline {chapter}{\numberline {7}Tecnolog\IeC {\'\i }a}{65}
-\contentsline {section}{\numberline {7.1}Introducci\IeC {\'o}n}{65}
-\contentsline {section}{\numberline {7.2}Punto de Vista de Infraestructura}{66}
-\contentsline {subsection}{\numberline {7.2.1}Modelo}{66}
-\contentsline {subsection}{\numberline {7.2.2}Caso}{67}
-\contentsline {section}{\numberline {7.3}Punto de Vista de Uso de Infraestructura}{68}
-\contentsline {subsection}{\numberline {7.3.1}Modelo}{68}
-\contentsline {subsection}{\numberline {7.3.2}Caso}{69}
-\contentsline {section}{\numberline {7.4}Punto de Vista de Implementaci\IeC {\'o}n y Despliegue}{70}
-\contentsline {subsection}{\numberline {7.4.1}Modelo}{70}
-\contentsline {subsection}{\numberline {7.4.2}Caso}{71}
-\contentsline {section}{\numberline {7.5}Punto de Vista de Estructura de la Informaci\IeC {\'o}n}{72}
-\contentsline {subsection}{\numberline {7.5.1}Modelo}{72}
-\contentsline {subsection}{\numberline {7.5.2}Caso}{73}
-\contentsline {section}{\numberline {7.6}Punto de Vista de Realizaci\IeC {\'o}n del Servicio}{74}
-\contentsline {subsection}{\numberline {7.6.1}Modelo}{74}
-\contentsline {subsection}{\numberline {7.6.2}Caso}{75}
-\contentsline {section}{\numberline {7.7}Punto de Vista de Capas}{76}
-\contentsline {subsection}{\numberline {7.7.1}Modelo}{76}
-\contentsline {subsection}{\numberline {7.7.2}Caso}{77}
-\contentsline {chapter}{\numberline {8}Motivaci\IeC {\'o}n}{79}
-\contentsline {section}{\numberline {8.1}Introducci\IeC {\'o}n}{79}
-\contentsline {section}{\numberline {8.2}Punto de Vista de Stakeholder}{80}
-\contentsline {subsection}{\numberline {8.2.1}Modelo}{80}
-\contentsline {subsection}{\numberline {8.2.2}Caso}{81}
-\contentsline {section}{\numberline {8.3}Punto de Vista de Realizaci\IeC {\'o}n del servicio}{82}
-\contentsline {subsection}{\numberline {8.3.1}Modelo}{82}
-\contentsline {subsection}{\numberline {8.3.2}Caso}{83}
-\contentsline {section}{\numberline {8.4}Punto de Vista de Contribuci\IeC {\'o}n de Objetivos}{84}
-\contentsline {subsection}{\numberline {8.4.1}Modelo}{84}
-\contentsline {subsection}{\numberline {8.4.2}Caso}{85}
-\contentsline {section}{\numberline {8.5}Punto de Vista de Realizaci\IeC {\'o}n de Requerimientos}{86}
-\contentsline {subsection}{\numberline {8.5.1}Modelo}{86}
-\contentsline {subsection}{\numberline {8.5.2}Caso}{87}
-\contentsline {section}{\numberline {8.6}Punto de Vista de Motivaci\IeC {\'o}n}{88}
-\contentsline {subsection}{\numberline {8.6.1}Modelo}{88}
-\contentsline {subsection}{\numberline {8.6.2}Caso}{89}
-\contentsline {chapter}{\numberline {9}Migraci\IeC {\'o}n}{91}
-\contentsline {section}{\numberline {9.1}Introducci\IeC {\'o}n}{91}
-\contentsline {section}{\numberline {9.2}Punto de Vista de Proyecto}{92}
-\contentsline {subsection}{\numberline {9.2.1}Modelo}{92}
-\contentsline {subsection}{\numberline {9.2.2}Caso}{93}
-\contentsline {section}{\numberline {9.3}Punto de Vista de Migraci\IeC {\'o}n}{94}
-\contentsline {subsection}{\numberline {9.3.1}Modelo}{94}
-\contentsline {subsection}{\numberline {9.3.2}Caso}{95}
-\contentsline {section}{\numberline {9.4}Punto de Vista de migraci\IeC {\'o}n e implementaci\IeC {\'o}n}{96}
-\contentsline {subsection}{\numberline {9.4.1}Modelo}{96}
-\contentsline {subsection}{\numberline {9.4.2}Caso}{97}
-\contentsline {chapter}{\numberline {10}Patrones}{99}
-\contentsline {section}{\numberline {10.1}Introducci\IeC {\'o}n}{99}
-\contentsline {chapter}{\numberline {11}Creacionales}{101}
-\contentsline {section}{\numberline {11.1}Introducci\IeC {\'o}n}{101}
-\contentsline {section}{\numberline {11.2}Singleton}{102}
-\contentsline {subsection}{\numberline {11.2.1}Caso de Uso Realizaci\IeC {\'o}n del Modelo}{102}
-\contentsline {subsection}{\numberline {11.2.2}Secuencia Extendida del Modelo}{103}
-\contentsline {subsection}{\numberline {11.2.3}Clases del Modelo}{104}
-\contentsline {subsection}{\numberline {11.2.4}C\IeC {\'o}digo Fuente}{105}
-\contentsline {subsection}{\numberline {11.2.5}Caso de Uso Realizaci\IeC {\'o}n del Caso}{106}
-\contentsline {subsection}{\numberline {11.2.6}Secuencia Extendida del Caso}{107}
-\contentsline {subsection}{\numberline {11.2.7}Clases del Caso}{108}
-\contentsline {subsection}{\numberline {11.2.8}C\IeC {\'o}digo Fuente}{109}
-\contentsline {chapter}{\numberline {12}Estructurales}{111}
-\contentsline {section}{\numberline {12.1}Introducci\IeC {\'o}n}{111}
-\contentsline {section}{\numberline {12.2}Adaptador}{112}
-\contentsline {subsection}{\numberline {12.2.1}Caso de Uso Realizaci\IeC {\'o}n del Modelo}{112}
-\contentsline {subsection}{\numberline {12.2.2}Secuencia Extendida del Modelo}{113}
-\contentsline {subsection}{\numberline {12.2.3}Clases del Modelo}{114}
-\contentsline {subsection}{\numberline {12.2.4}C\IeC {\'o}digo Fuente}{115}
-\contentsline {subsection}{\numberline {12.2.5}Caso de Uso Realizaci\IeC {\'o}n del Caso}{116}
-\contentsline {subsection}{\numberline {12.2.6}Secuencia Extendida del Caso}{117}
-\contentsline {subsection}{\numberline {12.2.7}Clases del Caso}{118}
-\contentsline {subsection}{\numberline {12.2.8}C\IeC {\'o}digo Fuente}{119}
-\contentsline {chapter}{\numberline {13}Comportamiento}{121}
-\contentsline {section}{\numberline {13.1}Introducci\IeC {\'o}n}{121}
-\contentsline {part}{III\hspace {1em}CONSIDERACIONES FINALES}{123}
-\contentsline {chapter}{\numberline {14}Reflexiones}{125}
-\contentsline {section}{\numberline {14.1}Introducci\IeC {\'o}n}{125}
-\contentsline {section}{\numberline {14.2}Conclusiones}{126}
-\contentsline {section}{\numberline {14.3}Trabajos Futuros}{127}
-\contentsline {chapter}{\numberline {A}Anexo 1}{131}
+\contentsline {section}{\numberline {1.1}INTRODUCCI\IeC {\'O}N}{13}
+\contentsline {section}{\numberline {1.2}TITULO Y DEFINICI\IeC {\'O}N DEL TEMA DE INVESTIGACI\IeC {\'O}N}{14}
+\contentsline {section}{\numberline {1.3}ESTUDIO DEL PROBLEMA DE INVESTIGACI\IeC {\'O}N}{15}
+\contentsline {subsection}{\numberline {1.3.1}short title}{15}
+\contentsline {subsection}{\numberline {1.3.2}Formulaci\IeC {\'o}n del problema}{16}
+\contentsline {subsection}{\numberline {1.3.3}Sistematizaci\IeC {\'o}n del problema}{16}
+\contentsline {section}{\numberline {1.4}OBJETIVOS DE LA INVESTIGACI\IeC {\'O}N}{17}
+\contentsline {subsection}{\numberline {1.4.1}Objetivo general}{17}
+\contentsline {subsection}{\numberline {1.4.2}Objetivos espec\IeC {\'\i }fico}{17}
+\contentsline {section}{\numberline {1.5}JUSTIFICACION DE LA INVESTIGACI\IeC {\'O}N}{18}
+\contentsline {subsection}{\numberline {1.5.1}Justificaci\IeC {\'o}n metodol\IeC {\'o}gica}{18}
+\contentsline {subsection}{\numberline {1.5.2}Justificaci\IeC {\'o}n pr\IeC {\'a}ctica}{18}
+\contentsline {section}{\numberline {1.6}HIP\IeC {\'O}TESIS DE TRABAJO}{19}
+\contentsline {part}{II\hspace {1em}ARQUITECTURA Y DISE\IeC {\~N}O}{21}
+\contentsline {chapter}{\numberline {2}Organizaci\IeC {\'o}n}{23}
+\contentsline {section}{\numberline {2.1}Introducci\IeC {\'o}n}{23}
+\contentsline {section}{\numberline {2.2}Nombre de la Organizaci\IeC {\'o}n}{24}
+\contentsline {section}{\numberline {2.3}Misi\IeC {\'o}n}{24}
+\contentsline {section}{\numberline {2.4}Visi\IeC {\'o}n}{24}
+\contentsline {section}{\numberline {2.5}Objetivos Organizacionales}{24}
+\contentsline {section}{\numberline {2.6}Organigrama}{25}
+\contentsline {section}{\numberline {2.7}Funciones del Negocio}{26}
+\contentsline {section}{\numberline {2.8}Procesos del negocio}{27}
+\contentsline {subsubsection}{Estudio de factibilidad}{27}
+\contentsline {subsubsection}{Postulaci\IeC {\'o}n}{27}
+\contentsline {subsubsection}{Selecci\IeC {\'o}n del comite}{27}
+\contentsline {subsubsection}{Construcci\IeC {\'o}n del call of papers}{27}
+\contentsline {subsubsection}{Resepci\IeC {\'o}n y evaluaci\IeC {\'o}n de articulos}{27}
+\contentsline {subsubsection}{Inscripci\IeC {\'o}n}{28}
+\contentsline {subsubsection}{Busqueda de Conferensistas}{28}
+\contentsline {subsubsection}{Registro}{28}
+\contentsline {subsubsection}{Conferencias y ponencias}{28}
+\contentsline {subsubsection}{Cierre}{28}
+\contentsline {section}{\numberline {2.9}Servicios}{29}
+\contentsline {section}{\numberline {2.10}Productos}{30}
+\contentsline {chapter}{\numberline {3}Lenguaje y M\IeC {\'e}todo}{31}
+\contentsline {section}{\numberline {3.1}Introducci\IeC {\'o}n}{31}
+\contentsline {section}{\numberline {3.2}Archimate}{32}
+\contentsline {section}{\numberline {3.3}Tabla de Negocio}{33}
+\contentsline {section}{\numberline {3.4}Tabla de Aplicaci\IeC {\'o}n}{35}
+\contentsline {section}{\numberline {3.5}Tabla de Tecnolog\IeC {\'\i }a}{36}
+\contentsline {section}{\numberline {3.6}Tabla de Relaciones}{38}
+\contentsline {section}{\numberline {3.7}Tabla de Motivaci\IeC {\'o}n Migraci\IeC {\'o}n}{40}
+\contentsline {section}{\numberline {3.8}ADM}{41}
+\contentsline {chapter}{\numberline {4}Negocio}{43}
+\contentsline {section}{\numberline {4.1}Introducci\IeC {\'o}n}{43}
+\contentsline {section}{\numberline {4.2}Punto de Vista de Organizaci\IeC {\'o}n}{44}
+\contentsline {subsection}{\numberline {4.2.1}Modelo}{44}
+\contentsline {subsection}{\numberline {4.2.2}Caso}{45}
+\contentsline {section}{\numberline {4.3}Punto de Vista de Cooperaci\IeC {\'o}n de Actor}{46}
+\contentsline {subsection}{\numberline {4.3.1}Modelo}{46}
+\contentsline {subsection}{\numberline {4.3.2}Caso}{47}
+\contentsline {section}{\numberline {4.4}Punto de Vista de Funci\IeC {\'o}n Negocio}{48}
+\contentsline {subsection}{\numberline {4.4.1}Modelo}{48}
+\contentsline {subsection}{\numberline {4.4.2}Caso}{49}
+\contentsline {section}{\numberline {4.5}Punto de Vista de Proceso}{50}
+\contentsline {subsection}{\numberline {4.5.1}Modelo}{50}
+\contentsline {subsection}{\numberline {4.5.2}Caso}{51}
+\contentsline {section}{\numberline {4.6}Punto de Vista de Cooperaci\IeC {\'o}n de Proceso}{52}
+\contentsline {subsection}{\numberline {4.6.1}Modelo}{52}
+\contentsline {subsection}{\numberline {4.6.2}Caso}{53}
+\contentsline {section}{\numberline {4.7}Punto de Vista de Producto}{54}
+\contentsline {subsection}{\numberline {4.7.1}Modelo}{54}
+\contentsline {subsection}{\numberline {4.7.2}Caso}{55}
+\contentsline {chapter}{\numberline {5}Aplicaci\IeC {\'o}n}{57}
+\contentsline {section}{\numberline {5.1}Introducci\IeC {\'o}n}{57}
+\contentsline {section}{\numberline {5.2}Punto de Vista de Comportamiento}{58}
+\contentsline {subsection}{\numberline {5.2.1}Modelo}{58}
+\contentsline {subsection}{\numberline {5.2.2}Caso}{59}
+\contentsline {section}{\numberline {5.3}Punto de Vista de Cooperaci\IeC {\'o}n de aplicaci\IeC {\'o}n}{60}
+\contentsline {subsection}{\numberline {5.3.1}Modelo}{60}
+\contentsline {subsection}{\numberline {5.3.2}Caso}{61}
+\contentsline {section}{\numberline {5.4}Punto de Vista de Estructura de Aplicaci\IeC {\'o}n}{62}
+\contentsline {subsection}{\numberline {5.4.1}Modelo}{62}
+\contentsline {subsection}{\numberline {5.4.2}Caso}{63}
+\contentsline {section}{\numberline {5.5}Punto de Vista de Uso de Aplicaci\IeC {\'o}n}{64}
+\contentsline {subsection}{\numberline {5.5.1}Modelo}{64}
+\contentsline {subsection}{\numberline {5.5.2}Caso}{65}
+\contentsline {chapter}{\numberline {6}Tecnolog\IeC {\'\i }a}{67}
+\contentsline {section}{\numberline {6.1}Introducci\IeC {\'o}n}{67}
+\contentsline {section}{\numberline {6.2}Punto de Vista de Infraestructura}{68}
+\contentsline {subsection}{\numberline {6.2.1}Modelo}{68}
+\contentsline {subsection}{\numberline {6.2.2}Caso}{69}
+\contentsline {section}{\numberline {6.3}Punto de Vista de Uso de Infraestructura}{70}
+\contentsline {subsection}{\numberline {6.3.1}Modelo}{70}
+\contentsline {subsection}{\numberline {6.3.2}Caso}{71}
+\contentsline {section}{\numberline {6.4}Punto de Vista de Implementaci\IeC {\'o}n y Despliegue}{72}
+\contentsline {subsection}{\numberline {6.4.1}Modelo}{72}
+\contentsline {subsection}{\numberline {6.4.2}Caso}{73}
+\contentsline {section}{\numberline {6.5}Punto de Vista de Estructura de la Informaci\IeC {\'o}n}{74}
+\contentsline {subsection}{\numberline {6.5.1}Modelo}{74}
+\contentsline {subsection}{\numberline {6.5.2}Caso}{75}
+\contentsline {section}{\numberline {6.6}Punto de Vista de Realizaci\IeC {\'o}n del Servicio}{76}
+\contentsline {subsection}{\numberline {6.6.1}Modelo}{76}
+\contentsline {subsection}{\numberline {6.6.2}Caso}{77}
+\contentsline {section}{\numberline {6.7}Punto de Vista de Capas}{78}
+\contentsline {subsection}{\numberline {6.7.1}Modelo}{78}
+\contentsline {subsection}{\numberline {6.7.2}Caso}{79}
+\contentsline {chapter}{\numberline {7}Motivaci\IeC {\'o}n}{81}
+\contentsline {section}{\numberline {7.1}Introducci\IeC {\'o}n}{81}
+\contentsline {section}{\numberline {7.2}Punto de Vista de Stakeholder}{82}
+\contentsline {subsection}{\numberline {7.2.1}Modelo}{82}
+\contentsline {subsection}{\numberline {7.2.2}Caso}{83}
+\contentsline {section}{\numberline {7.3}Punto de Vista de Realizaci\IeC {\'o}n del servicio}{84}
+\contentsline {subsection}{\numberline {7.3.1}Modelo}{84}
+\contentsline {subsection}{\numberline {7.3.2}Caso}{85}
+\contentsline {section}{\numberline {7.4}Punto de Vista de Contribuci\IeC {\'o}n de Objetivos}{86}
+\contentsline {subsection}{\numberline {7.4.1}Modelo}{86}
+\contentsline {subsection}{\numberline {7.4.2}Caso}{87}
+\contentsline {section}{\numberline {7.5}Punto de Vista de Realizaci\IeC {\'o}n de Requerimientos}{88}
+\contentsline {subsection}{\numberline {7.5.1}Modelo}{88}
+\contentsline {subsection}{\numberline {7.5.2}Caso}{89}
+\contentsline {section}{\numberline {7.6}Punto de Vista de Motivaci\IeC {\'o}n}{90}
+\contentsline {subsection}{\numberline {7.6.1}Modelo}{90}
+\contentsline {subsection}{\numberline {7.6.2}Caso}{91}
+\contentsline {chapter}{\numberline {8}Migraci\IeC {\'o}n}{93}
+\contentsline {section}{\numberline {8.1}Introducci\IeC {\'o}n}{93}
+\contentsline {section}{\numberline {8.2}Punto de Vista de Proyecto}{94}
+\contentsline {subsection}{\numberline {8.2.1}Modelo}{94}
+\contentsline {subsection}{\numberline {8.2.2}Caso}{95}
+\contentsline {section}{\numberline {8.3}Punto de Vista de Migraci\IeC {\'o}n}{96}
+\contentsline {subsection}{\numberline {8.3.1}Modelo}{96}
+\contentsline {subsection}{\numberline {8.3.2}Caso}{97}
+\contentsline {section}{\numberline {8.4}Punto de Vista de migraci\IeC {\'o}n e implementaci\IeC {\'o}n}{98}
+\contentsline {subsection}{\numberline {8.4.1}Modelo}{98}
+\contentsline {subsection}{\numberline {8.4.2}Caso}{99}
+\contentsline {chapter}{\numberline {9}Patrones}{101}
+\contentsline {section}{\numberline {9.1}Introducci\IeC {\'o}n}{101}
+\contentsline {chapter}{\numberline {10}Creacionales}{103}
+\contentsline {section}{\numberline {10.1}Introducci\IeC {\'o}n}{103}
+\contentsline {section}{\numberline {10.2}Singleton}{104}
+\contentsline {subsection}{\numberline {10.2.1}Caso de Uso Realizaci\IeC {\'o}n del Modelo}{104}
+\contentsline {subsection}{\numberline {10.2.2}Secuencia Extendida del Modelo}{105}
+\contentsline {subsection}{\numberline {10.2.3}Clases del Modelo}{106}
+\contentsline {subsection}{\numberline {10.2.4}C\IeC {\'o}digo Fuente}{107}
+\contentsline {subsection}{\numberline {10.2.5}Caso de Uso Realizaci\IeC {\'o}n del Caso}{108}
+\contentsline {subsection}{\numberline {10.2.6}Secuencia Extendida del Caso}{109}
+\contentsline {subsection}{\numberline {10.2.7}Clases del Caso}{110}
+\contentsline {subsection}{\numberline {10.2.8}C\IeC {\'o}digo Fuente}{111}
+\contentsline {chapter}{\numberline {11}Estructurales}{113}
+\contentsline {section}{\numberline {11.1}Introducci\IeC {\'o}n}{113}
+\contentsline {section}{\numberline {11.2}Adaptador}{114}
+\contentsline {subsection}{\numberline {11.2.1}Caso de Uso Realizaci\IeC {\'o}n del Modelo}{114}
+\contentsline {subsection}{\numberline {11.2.2}Secuencia Extendida del Modelo}{115}
+\contentsline {subsection}{\numberline {11.2.3}Clases del Modelo}{116}
+\contentsline {subsection}{\numberline {11.2.4}C\IeC {\'o}digo Fuente}{117}
+\contentsline {subsection}{\numberline {11.2.5}Caso de Uso Realizaci\IeC {\'o}n del Caso}{118}
+\contentsline {subsection}{\numberline {11.2.6}Secuencia Extendida del Caso}{119}
+\contentsline {subsection}{\numberline {11.2.7}Clases del Caso}{120}
+\contentsline {subsection}{\numberline {11.2.8}C\IeC {\'o}digo Fuente}{121}
+\contentsline {chapter}{\numberline {12}Comportamiento}{123}
+\contentsline {section}{\numberline {12.1}Introducci\IeC {\'o}n}{123}
+\contentsline {part}{III\hspace {1em}CONSIDERACIONES FINALES}{125}
+\contentsline {chapter}{\numberline {13}Reflexiones}{127}
+\contentsline {section}{\numberline {13.1}Introducci\IeC {\'o}n}{127}
+\contentsline {section}{\numberline {13.2}Conclusiones}{128}
+\contentsline {section}{\numberline {13.3}Trabajos Futuros}{129}
+\contentsline {chapter}{\numberline {A}Anexo 1}{133}

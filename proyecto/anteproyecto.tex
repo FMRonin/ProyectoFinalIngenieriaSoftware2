@@ -1,14 +1,71 @@
 \chapter{Proyecto}
-\section{Introducción}
+\section{INTRODUCCIÓN}
 La arquitectura de software es hoy en día una de las ramas de la ingeniera de software que toma cada vez más fuerza por ser primordial en las primeras etapas del desarrollo del software y en general en todo el proceso. Aun así hay muchos sistemas en especial a nivel web que presentan dificultades y que no se han desarrollado de la manera adecuada. Por otro lado, el auge de la web a aumentado el acceso a esta a personas en todo el mundo y a llevado a que las organizaciones inviertan un gran capital en mejorar su presencia y su imagen en el medio virtual. Ahí surge la necesidad de desarrollar gestores de contenido que faciliten los procesos publicación y modificación de información que las compañías presentan en la web. Este trabajo pretende generar una propuesta arquitectónica para un gestor de contenidos a partir de un caso de estudio (la organización IEEE Sección Colombia). Para ello se va a evaluar el estado actual del sitio web, las actividades que desempeña la organización y el contenido que esta requiere manejara en su sitio. También se va a hacer un proceso de recolección de requerimientos, con estos requerimientos, Se diseñará una arquitectura web a partir del modelo 4+1 que permite visualizar la propuesta en todos los niveles. Finalmente, se junto con la arquitectura propuesta se hará una evaluación del proceso de migración e implementación y generar toda la documentación necesaria para su implementación y mantenimiento.
-
+\newpage
 \section{TITULO Y DEFINICIÓN DEL TEMA DE INVESTIGACIÓN}
 
-Este trabajo pretende presentar una propuesta arquitectónica aplicada a la gestión de contenido y aplicada a un caso de estudio. Se evaluará desde el proceso de captura de requerimientos, análisis de estos y el posterior diseño de la arquitectura. También pretende documentarse de los patrones de arquitectura para permitir la definición y evaluación del modelo propuesto. De esta manera se puede definir el título del proyecto como:
+Este trabajo pretende presentar una propuesta arquitectónica aplicada a la gestión de contenido y aplicada a un caso de estudio. Se evaluará desde el proceso de captura de requerimientos, análisis de estos y el posterior diseño de la arquitectura. También pretende documentarse de los patrones de arquitectura para permitir la definición y evaluación del modelo propuesto. De esta manera se puede definir el título del proyecto como:
 
-Titulo: Diseño de una arquitectura para la gestión de contenidos a partir del uso de la selección y uso patrones de arquitectura: caso de estudio
+
+Titulo: Diseño de una arquitectura para la gestión de contenidos a partir del uso de la selección y uso patrones de arquitectura: caso de estudio
+\newpage
 
 \section{ESTUDIO DEL PROBLEMA DE INVESTIGACIÓN}
 
-\subsection[short title]{title}
+\subsection[short title]{Planteamiento del problema}
+
+La página del IEEE Sección Colombia hoy cuenta con gran número de problemas a nivel estructural, de gestión de la información y de presentación, además que resulta siendo una plataforma con el único propósito de publicar noticias y sin la capacidad de evolucionar a ser un apoyo a los diferentes procesos dentro de la organización. Entre sus problemáticas a nivel estructural son el uso de librerías deprecadas para el manejo de datos generando huecos de seguridad y con la posibilidad que proveedor de host obligue a una actualización que rompa la compatibilidad con el sitio. No hay una arquitectura clara ya que no se encuentran separadas las capas de consulta a base de datos y de los procesos lógicos y estos a subes de la interfaz de usuario impidiendo una actualización de alguna de las capas. Por último, el proyecto fue entregado bajo la mala praxis de “Lo último que se entrega al terminar el proyecto es el programa funcionando, que es lo que importa” lo que significa que no hay documentación para futuras mejoras o mantenimiento. La interfaz de administración no permite acceder a algunas páginas que se actualizan de manera periódica. La gestión no es fluida ya que hay módulos que no es claro para que sirven como hay otros en los que es necesario replicar de manera manual la información. A nivel de presentación la falta de actualización de la página no ha implementado elementos que hoy en día son importantes para el posicionamiento, y uso de las paginas como podrían ser el uso de notificaciones interacción con redes sociales y ser responsiva para usuarios móviles. Adicionalmente la estructura y la falta de documentación de cómo es no permite pensar en integrar procesos adicionales que pueda requerir la organización.
+
+El uso de librerías deprecadas podría generar que el proveedor del host que también provee las aplicaciones (PHP y MySQL) decide actualizarlas causaría que la pagina dejara de funcionar y con sin una arquitectura del sistema clara y documentada el proceso de actualización podría ser muy difícil adicional a los problemas de usar librerías deprecadas para las consultas a base de datos . Los problemas en la gestión y edición de contenido hacen que no se actualice rápido y a su vez los usuarios no se enteren a tiempo de las diferentes actividades que organiza la Sección y no puedan aprovecharlas. Opciones como las alertas y el diseño responsivo hace que las personas interesadas en la información publicada en la página les quede más fácil leerla y planear para participar en los eventos y actividades.
+
+El primer paso para que los problemas anteriormente mencionados no se den o se puedan mitigar de alguna forma es cambiar la estructura del sitio y documentar de manera más detallada esta arquitectura para su mantenimiento y actualización. Dado que no se cuenta con un esquema claro de datos y pensando en la posibilidad de una evolución para mejorar muchos procesos de la compañía es posible que plantear el uso de gestores diponibles en el mercado no resulte satisfactorio sin contar que muchas veces se encuentran limitados ya que requieren implementación de plugins de terceros para el uso de mapas, manejo de fechas entre otras cosas. Por esta razón se hace necesaria una arquitectura de un gestor de contenidos robusto que esté integrado a los procesos de la organización y separe el contenido las capas del negocio de manera correcta para que se pueda grstionar de mejor manera.
+
+\subsection{Formulación del problema}
+
+¿Qué estructura funcional cognitiva permite la gestión de contenido de la página de IEEE Sección Colombia haciendo al sitio mantenible, actualizable, fácilmente gestionado, además de permitir integrar nuevas funcionalidades?
+
+\subsection{Sistematización del problema}
+
+¿Cuál es la principal función que cumple la página web en la organización?
+¿Qué otras funciones pueden desempeñar?
+¿Cuáles son los componentes básicos de be tener la aplicación?
+¿Cómo puede integrar elementos nuevos como notificaciones y diseño responsiva sin alterarla de manera significativa?
+¿Cómo se acopla la arquitectura propuesta a nuevas funcionalidades?
+¿Cómo se implementan métricas de usuarios?
+¿Cómo estaría estructurada la nueva arquitectura?
+¿Cuál sería su proceso de implementación?
+¿Cuál sería el proceso de migración de la actual plataforma esta arquitectura?
+
 \newpage
+
+\section{OBJETIVOS DE LA INVESTIGACIÓN}
+
+\subsection{Objetivo general}
+
+Diseñar un gestor de contenidos a partir del uso de patrones arquitectónicos teniendo en cuenta los requisitos de la organización IEEE Sección Colombia, para mejorar la sinergia de su actual plataforma web.
+
+\subsection{Objetivos específico}
+	
+\begin{itemize}
+	\item Obtener requerimientos a través de análisis de casos de uso para establecer las funcionalidades que debe abarcar el software.
+	\item Definir los escenarios de trabajo del sitio web tanto a nivel de usuario de la página como de gestor de contenido con diagramas de casos de uso y de secuencia para definir los componentes deben hacer parte de la arquitectura.
+	\item Presentar la arquitectura del gestor de contenido utilizando de documentos y diagramas UML facilitando su posterior implementación, evaluación y mantenimiento.
+\end{itemize}
+
+\newpage
+
+\section{JUSTIFICACION DE LA INVESTIGACIÓN}
+
+\subsection{Justificación metodológica}
+
+La implementación de una arquitectura por capas permite separar las responsabilidades entre los elementos de software. En un sistema gestor de contenido es importante separar el contenido que se le presenta al administrador y el que se le presenta a los visitantes del sitio. Este evalúa la evaluación e implementación de patrones arquitectónicos a partir contexto especifico como sería la implementación de una arquitectura de capas para gestión de contenidos.
+
+\subsection{Justificación práctica}
+
+Actualmente los procesos de edición y publicación en el sitio web en cuestión resultan lentos y dispendiosos, pero para implementar una mejora en ese proceso y otros procesos que mejoren la interfaz del sitio ya sea para gestión o visualización de información es necesario diseñar una nueva arquitectura que permita hacer estas modificaciones y también permita integrar otros elementos que actualmente son normales en este tipo de webs, pero con los cuales no cuenta esté. Para poder pensar en una sitio que evolucione con los objetivos de la organización es necesario que este tenga un diseño que permita su evolución.
+
+\newpage
+\section{HIPÓTESIS DE TRABAJO}
+
+La estructura cognitiva funcional que proveerá los flujos de información que permitan la gestión y organización del contenido ofrecido por la organización será un gestor de contenidos. Ya que los gestores de contenido son las herramientas que permiten generar modificar y actualizar el contenido de un sitio web a personas con pocos conocimientos técnicos. A pesar de la existencia de gestores libres y de propósito generar, muchas veces estos no cumplen con todos los requisitos de las organizaciones que los usan. Este busca diseñar un gestor de contenido a parte del patrón arquitectónico de capas enfocado en los requerimientos de una organización en específico. Esto permitirá que el software que se desarrolle mejore los procesos de gestión que hacer la organización en la página web. También se evalúa la posibilidad de que esta arquitectura pueda integrar diversidad de recursos para nuevos casos de negocio que pueda abarcar el sitio web.
+

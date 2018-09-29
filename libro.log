@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  5 SEP 2018 12:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 SEP 2018 22:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -108,7 +108,7 @@ Package color Info: Driver file: pdftex.def on input line 147.
 (./libro.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
- (./proyecto/anteproyecto.aux) (./proyecto/metodologia.aux)
+ (./proyecto/anteproyecto.aux)
 (./arquitectura_diseno/organizacion.aux)
 (./arquitectura_diseno/archimate_adm.aux) (./arquitectura_diseno/negocio.aux)
 (./arquitectura_diseno/software.aux) (./arquitectura_diseno/tecnologia.aux)
@@ -223,14 +223,14 @@ LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 4.
  [3]
-LaTeX Info: Redefining \. on input line 64.
-LaTeX Info: Redefining \% on input line 64.
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
  [4]
-LaTeX Info: Redefining \. on input line 103.
-LaTeX Info: Redefining \% on input line 103.
+LaTeX Info: Redefining \. on input line 114.
+LaTeX Info: Redefining \% on input line 114.
  [5]
-LaTeX Info: Redefining \. on input line 138.
-LaTeX Info: Redefining \% on input line 138.
+LaTeX Info: Redefining \. on input line 150.
+LaTeX Info: Redefining \% on input line 150.
  [6])
 \tf@toc=\write3
 \openout3 = `libro.toc'.
@@ -266,1108 +266,1117 @@ Cap\'{\i }tulo 1.
 [13
 
 
-])
-\openout2 = `proyecto/metodologia.aux'.
-
- (./proyecto/metodologia.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [14
-
-
-
 ]
-Cap\'{\i }tulo 2.
-[15]
-<proyecto/imgs/scrum.pdf, id=56, 474.27188pt x 302.12875pt>
-File: proyecto/imgs/scrum.pdf Graphic file (type pdf)
-<use proyecto/imgs/scrum.pdf>
-Package pdftex.def Info: proyecto/imgs/scrum.pdf  used on input line 9.
-(pdftex.def)             Requested size: 323.9978pt x 206.40373pt.
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
- [16 <./proyecto/imgs/scrum.pdf>]
-<proyecto/imgs/cronograma.png, id=62, 591.4095pt x 346.896pt>
-File: proyecto/imgs/cronograma.png Graphic file (type png)
-<use proyecto/imgs/cronograma.png>
-Package pdftex.def Info: proyecto/imgs/cronograma.png  used on input line 16.
-(pdftex.def)             Requested size: 323.9978pt x 190.04175pt.
-)
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
- [17 <./proyecto/imgs/cronograma.png>]
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+ [14]
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+ [15]
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
+ [16]
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
+ [17]
+Overfull \hbox (1.5444pt too wide) in paragraph at lines 69--69
+[]\OT1/cmr/bx/n/14.4 JUSTIFICACION DE LA IN-VES-TI-GA-CI[]ON 
+ []
+
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+[18])
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+ [19]
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
+ [20
 
-[18
 
-
-] [19] [20]
+] [21] [22]
 \openout2 = `arquitectura_diseno/organizacion.aux'.
 
  (./arquitectura_diseno/organizacion.tex
-Cap\'{\i }tulo 3.
-[21
+Cap\'{\i }tulo 2.
+[23
 
 
 ]
-LaTeX Info: Redefining \. on input line 13.
-LaTeX Info: Redefining \% on input line 13.
- [22]
-LaTeX Info: Redefining \. on input line 16.
-LaTeX Info: Redefining \% on input line 16.
- [23]
-LaTeX Info: Redefining \. on input line 19.
-LaTeX Info: Redefining \% on input line 19.
- [24]
-LaTeX Info: Redefining \. on input line 22.
-LaTeX Info: Redefining \% on input line 22.
- [25]
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
+
+LaTeX Warning: Citation `IEEEMisionVision' on page 24 undefined on input line 1
+0.
+
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+[24]
+<arquitectura_diseno/imgs/organigrama.png, id=84, 854.19125pt x 723.70375pt>
+File: arquitectura_diseno/imgs/organigrama.png Graphic file (type png)
+<use arquitectura_diseno/imgs/organigrama.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/organigrama.png  used on inpu
+t line 25.
+(pdftex.def)             Requested size: 431.9989pt x 366.00308pt.
+
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 25--26
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
+[25 <./arquitectura_diseno/imgs/organigrama.png>]
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
  [26]
-LaTeX Info: Redefining \. on input line 28.
-LaTeX Info: Redefining \% on input line 28.
- [27])
+LaTeX Info: Redefining \. on input line 63.
+LaTeX Info: Redefining \% on input line 63.
+ [27]
+LaTeX Info: Redefining \. on input line 75.
+LaTeX Info: Redefining \% on input line 75.
+ [28]
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+ [29]
+LaTeX Info: Redefining \. on input line 91.
+LaTeX Info: Redefining \% on input line 91.
+ [30])
 \openout2 = `arquitectura_diseno/archimate_adm.aux'.
 
- (./arquitectura_diseno/archimate_adm.tex
+
+(./arquitectura_diseno/archimate_adm.tex
+Cap\'{\i }tulo 3.
+[31
+
+
+
+]
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+ [32]
+Underfull \hbox (badness 3068) in paragraph at lines 15--15
+[]\OT1/cmr/m/n/10.95 Una en-ti-dad or-ga-ni-za-cio-nal
+ []
+
+<arquitectura_diseno/imgs/ADMneg1.png, id=113, 131.0496pt x 42.8802pt>
+File: arquitectura_diseno/imgs/ADMneg1.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMneg1.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg1.png  used on input li
+ne 17.
+(pdftex.def)             Requested size: 108.0011pt x 35.33864pt.
+<arquitectura_diseno/imgs/ADMneg2.png, id=114, 148.8762pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMneg2.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMneg2.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg2.png  used on input li
+ne 22.
+(pdftex.def)             Requested size: 108.0011pt x 30.75713pt.
+<arquitectura_diseno/imgs/ADMneg3.png, id=115, 137.7948pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMneg3.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMneg3.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg3.png  used on input li
+ne 30.
+(pdftex.def)             Requested size: 108.0011pt x 33.23235pt.
+<arquitectura_diseno/imgs/ADMneg4.png, id=116, 155.1396pt x 41.4348pt>
+File: arquitectura_diseno/imgs/ADMneg4.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMneg4.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg4.png  used on input li
+ne 37.
+(pdftex.def)             Requested size: 108.0011pt x 28.84608pt.
+<arquitectura_diseno/imgs/ADMneg5.png, id=117, 125.268pt x 42.8802pt>
+File: arquitectura_diseno/imgs/ADMneg5.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMneg5.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg5.png  used on input li
+ne 41.
+(pdftex.def)             Requested size: 108.0011pt x 36.9698pt.
+<arquitectura_diseno/imgs/ADMneg11.png, id=118, 61.6704pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMneg11.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMneg11.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg11.png  used on input l
+ine 46.
+(pdftex.def)             Requested size: 108.0011pt x 74.2578pt.
+
+Underfull \hbox (badness 1968) in paragraph at lines 51--51
+[]\OT1/cmr/m/n/10.95 Un ele-men-to de com-por-ta-
+ []
+
+<arquitectura_diseno/imgs/ADMneg6.png, id=119, 148.3944pt x 43.8438pt>
+File: arquitectura_diseno/imgs/ADMneg6.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMneg6.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg6.png  used on input li
+ne 52.
+(pdftex.def)             Requested size: 108.0011pt x 31.91002pt.
+
+Underfull \hbox (badness 1968) in paragraph at lines 58--58
+[]\OT1/cmr/m/n/10.95 Un ele-men-to de com-por-ta-
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 58--58
+\OT1/cmr/m/n/10.95 re-cur-sos co-mer-cia-les y / o
+ []
+
+<arquitectura_diseno/imgs/ADMneg7.png, id=120, 137.7948pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMneg7.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMneg7.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg7.png  used on input li
+ne 59.
+(pdftex.def)             Requested size: 108.0011pt x 33.23235pt.
+
+Overfull \hbox (77.3581pt too wide) in paragraph at lines 10--63
+ [] 
+ []
+
+
+Overfull \vbox (24.91548pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 64.
+LaTeX Info: Redefining \% on input line 64.
+
+[33 <./arquitectura_diseno/imgs/ADMneg1.png> <./arquitectura_diseno/imgs/ADMneg
+2.png> <./arquitectura_diseno/imgs/ADMneg3.png> <./arquitectura_diseno/imgs/ADM
+neg4.png> <./arquitectura_diseno/imgs/ADMneg5.png> <./arquitectura_diseno/imgs/
+ADMneg11.png> <./arquitectura_diseno/imgs/ADMneg6.png> <./arquitectura_diseno/i
+mgs/ADMneg7.png>]
+Underfull \hbox (badness 1968) in paragraph at lines 68--68
+[]\OT1/cmr/m/n/10.95 Un ele-men-to de com-por-ta-
+ []
+
+<arquitectura_diseno/imgs/ADMneg8.png, id=132, 129.6042pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMneg8.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMneg8.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg8.png  used on input li
+ne 69.
+(pdftex.def)             Requested size: 108.0011pt x 35.33168pt.
+<arquitectura_diseno/imgs/ADMneg9.png, id=133, 141.6492pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMneg9.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMneg9.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg9.png  used on input li
+ne 75.
+(pdftex.def)             Requested size: 108.0011pt x 32.32661pt.
+<arquitectura_diseno/imgs/ADMneg10.png, id=134, 151.2852pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMneg10.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMneg10.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg10.png  used on input l
+ine 81.
+(pdftex.def)             Requested size: 108.0011pt x 30.26804pt.
+<arquitectura_diseno/imgs/ADMneg12.png, id=135, 66.4884pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMneg12.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMneg12.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg12.png  used on input l
+ine 88.
+(pdftex.def)             Requested size: 108.0011pt x 68.87392pt.
+<arquitectura_diseno/imgs/ADMneg13.png, id=136, 61.6704pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMneg13.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMneg13.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg13.png  used on input l
+ine 96.
+(pdftex.def)             Requested size: 108.0011pt x 74.2578pt.
+<arquitectura_diseno/imgs/ADMneg14.png, id=137, 61.6704pt x 33.726pt>
+File: arquitectura_diseno/imgs/ADMneg14.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMneg14.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg14.png  used on input l
+ine 105.
+(pdftex.def)             Requested size: 108.0011pt x 59.0687pt.
+
+Underfull \hbox (badness 1231) in paragraph at lines 111--112
+[]\OT1/cmr/m/n/10.95 Una co-lec-ci^^Son cohe-ren-te de
+ []
+
+<arquitectura_diseno/imgs/ADMneg15.png, id=138, 61.6704pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMneg15.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMneg15.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg15.png  used on input l
+ine 113.
+(pdftex.def)             Requested size: 108.0011pt x 74.2578pt.
+<arquitectura_diseno/imgs/ADMneg16.png, id=139, 61.6704pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMneg16.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMneg16.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg16.png  used on input l
+ine 119.
+(pdftex.def)             Requested size: 108.0011pt x 74.2578pt.
+
+Overfull \hbox (70.36223pt too wide) in paragraph at lines 64--123
+ [][] 
+ []
+
+
+Overfull \vbox (49.74228pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 123.
+LaTeX Info: Redefining \% on input line 123.
+
+[34 <./arquitectura_diseno/imgs/ADMneg8.png> <./arquitectura_diseno/imgs/ADMneg
+9.png> <./arquitectura_diseno/imgs/ADMneg10.png> <./arquitectura_diseno/imgs/AD
+Mneg12.png> <./arquitectura_diseno/imgs/ADMneg13.png> <./arquitectura_diseno/im
+gs/ADMneg14.png> <./arquitectura_diseno/imgs/ADMneg15.png> <./arquitectura_dise
+no/imgs/ADMneg16.png>]
+Underfull \hbox (badness 1616) in paragraph at lines 137--137
+[]\OT1/cmr/m/n/10.95 Una par-te mo-du-lar, im-ple-
+ []
+
+<arquitectura_diseno/imgs/ADMap1.png, id=151, 155.1396pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMap1.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMap1.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMap1.png  used on input lin
+e 138.
+(pdftex.def)             Requested size: 108.0011pt x 29.51692pt.
+
+Underfull \hbox (badness 7012) in paragraph at lines 145--145
+\OT1/cmr/m/n/10.95 com-po-nen-tes de apli-ca-ci^^Son
+ []
+
+<arquitectura_diseno/imgs/ADMap2.png, id=152, 141.6492pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMap2.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMap2.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMap2.png  used on input lin
+e 146.
+(pdftex.def)             Requested size: 108.0011pt x 32.32661pt.
+<arquitectura_diseno/imgs/ADMap3.png, id=153, 153.6942pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMap3.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMap3.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMap3.png  used on input lin
+e 154.
+(pdftex.def)             Requested size: 108.0011pt x 29.79446pt.
+<arquitectura_diseno/imgs/ADMap7.png, id=154, 61.6704pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMap7.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMap7.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMap7.png  used on input lin
+e 163.
+(pdftex.def)             Requested size: 108.0011pt x 74.2578pt.
+
+Underfull \hbox (badness 1968) in paragraph at lines 170--170
+[]\OT1/cmr/m/n/10.95 Un ele-men-to de com-por-ta-
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 170--170
+\OT1/cmr/m/n/10.95 ta-mien-to au-to-ma-ti-za-do que
+ []
+
+<arquitectura_diseno/imgs/ADMap4.png, id=155, 137.7948pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMap4.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMap4.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMap4.png  used on input lin
+e 171.
+(pdftex.def)             Requested size: 108.0011pt x 33.23235pt.
+
+Underfull \hbox (badness 1968) in paragraph at lines 177--177
+[]\OT1/cmr/m/n/10.95 Un ele-men-to de com-por-ta-
+ []
+
+<arquitectura_diseno/imgs/ADMap5.png, id=156, 129.6042pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMap5.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMap5.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMap5.png  used on input lin
+e 178.
+(pdftex.def)             Requested size: 108.0011pt x 35.33168pt.
+
+Underfull \hbox (badness 1931) in paragraph at lines 184--184
+[]\OT1/cmr/m/n/10.95 Un ser-vi-cio que ex-po-ne el
+ []
+
+<arquitectura_diseno/imgs/ADMap6.png, id=157, 154.6578pt x 43.8438pt>
+File: arquitectura_diseno/imgs/ADMap6.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMap6.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMap6.png  used on input lin
+e 185.
+(pdftex.def)             Requested size: 108.0011pt x 30.61684pt.
+
+Overfull \hbox (89.22061pt too wide) in paragraph at lines 129--189
+ [] 
+ []
+
+<arquitectura_diseno/imgs/ADMte1.png, id=158, 147.4308pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMte1.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMte1.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMte1.png  used on input lin
+e 204.
+(pdftex.def)             Requested size: 108.0011pt x 31.05925pt.
+<arquitectura_diseno/imgs/ADMte2.png, id=159, 183.084pt x 47.2164pt>
+File: arquitectura_diseno/imgs/ADMte2.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMte2.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMte2.png  used on input lin
+e 210.
+(pdftex.def)             Requested size: 108.0011pt x 27.85309pt.
+
+Underfull \hbox (badness 1430) in paragraph at lines 215--215
+[]\OT1/cmr/m/n/10.95 Un me-dio de co-mu-ni-ca-ci^^Son
+ []
+
+<arquitectura_diseno/imgs/ADMte3.png, id=160, 143.5764pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMte3.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMte3.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMte3.png  used on input lin
+e 217.
+(pdftex.def)             Requested size: 108.0011pt x 31.89381pt.
+<arquitectura_diseno/imgs/ADMte4.png, id=161, 145.5036pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMte4.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMte4.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMte4.png  used on input lin
+e 224.
+(pdftex.def)             Requested size: 108.0011pt x 31.4707pt.
+
+Underfull \hbox (badness 1107) in paragraph at lines 229--229
+[]\OT1/cmr/m/n/10.95 Un pun-to de ac-ce-so don-de
+ []
+
+<arquitectura_diseno/imgs/ADMte5.png, id=162, 139.2402pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMte5.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMte5.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMte5.png  used on input lin
+e 231.
+(pdftex.def)             Requested size: 108.0011pt x 32.88687pt.
+<arquitectura_diseno/imgs/ADMte6.png, id=163, 139.2402pt x 42.8802pt>
+File: arquitectura_diseno/imgs/ADMte6.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMte6.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMte6.png  used on input lin
+e 239.
+(pdftex.def)             Requested size: 108.0011pt x 33.26059pt.
+
+Underfull \hbox (badness 1968) in paragraph at lines 244--244
+[]\OT1/cmr/m/n/10.95 Un ele-men-to de com-por-ta-
+ []
+
+<arquitectura_diseno/imgs/ADMte7.jpg, id=164, 131.5314pt x 55.8888pt>
+File: arquitectura_diseno/imgs/ADMte7.jpg Graphic file (type jpg)
+<use arquitectura_diseno/imgs/ADMte7.jpg>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMte7.jpg  used on input lin
+e 246.
+(pdftex.def)             Requested size: 108.0011pt x 45.89305pt.
+<arquitectura_diseno/imgs/ADMte8.png, id=165, 142.131pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMte8.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMte8.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMte8.png  used on input lin
+e 254.
+(pdftex.def)             Requested size: 108.0011pt x 32.21793pt.
+
+Overfull \hbox (102.79134pt too wide) in paragraph at lines 195--257
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 257.
+LaTeX Info: Redefining \% on input line 257.
+ [35 <./arquitectura_diseno/imgs/ADMap1.png> <./arquitectura_diseno/imgs/ADMap2
+.png> <./arquitectura_diseno/imgs/ADMap3.png> <./arquitectura_diseno/imgs/ADMap
+7.png> <./arquitectura_diseno/imgs/ADMap4.png> <./arquitectura_diseno/imgs/ADMa
+p5.png> <./arquitectura_diseno/imgs/ADMap6.png>]
+<arquitectura_diseno/imgs/ADMte9.png, id=176, 132.495pt x 42.3984pt>
+File: arquitectura_diseno/imgs/ADMte9.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMte9.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMte9.png  used on input lin
+e 269.
+(pdftex.def)             Requested size: 108.0011pt x 34.56052pt.
+
+Overfull \hbox (102.79134pt too wide) in paragraph at lines 259--273
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 273.
+LaTeX Info: Redefining \% on input line 273.
+[36 <./arquitectura_diseno/imgs/ADMte1.png> <./arquitectura_diseno/imgs/ADMte2.
+png> <./arquitectura_diseno/imgs/ADMte3.png> <./arquitectura_diseno/imgs/ADMte4
+.png> <./arquitectura_diseno/imgs/ADMte5.png> <./arquitectura_diseno/imgs/ADMte
+6.png> <./arquitectura_diseno/imgs/ADMte7.jpg> <./arquitectura_diseno/imgs/ADMt
+e8.png>]
+LaTeX Info: Redefining \. on input line 274.
+LaTeX Info: Redefining \% on input line 274.
+ [37 <./arquitectura_diseno/imgs/ADMte9.png>]
+<arquitectura_diseno/imgs/ADMre1.png, id=191, 45.771pt x 2.8908pt>
+File: arquitectura_diseno/imgs/ADMre1.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMre1.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMre1.png  used on input lin
+e 286.
+(pdftex.def)             Requested size: 108.0011pt x 6.8218pt.
+<arquitectura_diseno/imgs/ADMre2.png, id=192, 42.8802pt x 9.1542pt>
+File: arquitectura_diseno/imgs/ADMre2.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMre2.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMre2.png  used on input lin
+e 292.
+(pdftex.def)             Requested size: 108.0011pt x 23.05905pt.
+<arquitectura_diseno/imgs/ADMre4.png, id=193, 49.1436pt x 19.7538pt>
+File: arquitectura_diseno/imgs/ADMre4.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMre4.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMre4.png  used on input lin
+e 299.
+(pdftex.def)             Requested size: 108.0011pt x 43.41444pt.
+<arquitectura_diseno/imgs/ADMre5.jpg, id=194, 58.7796pt x 13.4904pt>
+File: arquitectura_diseno/imgs/ADMre5.jpg Graphic file (type jpg)
+<use arquitectura_diseno/imgs/ADMre5.jpg>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMre5.jpg  used on input lin
+e 307.
+(pdftex.def)             Requested size: 108.0011pt x 24.78947pt.
+<arquitectura_diseno/imgs/ADMre6.png, id=195, 60.225pt x 15.8994pt>
+File: arquitectura_diseno/imgs/ADMre6.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMre6.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMre6.png  used on input lin
+e 314.
+(pdftex.def)             Requested size: 108.0011pt x 28.51501pt.
+<arquitectura_diseno/imgs/ADMre7.png, id=196, 71.3064pt x 25.5354pt>
+File: arquitectura_diseno/imgs/ADMre7.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMre7.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMre7.png  used on input lin
+e 322.
+(pdftex.def)             Requested size: 108.0011pt x 38.67664pt.
+<arquitectura_diseno/imgs/ADMre8.png, id=197, 70.8246pt x 25.5354pt>
+File: arquitectura_diseno/imgs/ADMre8.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMre8.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMre8.png  used on input lin
+e 330.
+(pdftex.def)             Requested size: 108.0011pt x 38.94121pt.
+<arquitectura_diseno/imgs/ADMre9.png, id=198, 47.2164pt x 14.454pt>
+File: arquitectura_diseno/imgs/ADMre9.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMre9.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMre9.png  used on input lin
+e 343.
+(pdftex.def)             Requested size: 108.0011pt x 33.06522pt.
+
+Underfull \hbox (badness 3148) in paragraph at lines 348--348
+[]\OT1/cmr/m/n/10.95 La re-la-ci^^Son des-en-ca-de-nan-te
+ []
+
+<arquitectura_diseno/imgs/ADMre10.png, id=199, 47.2164pt x 14.454pt>
+File: arquitectura_diseno/imgs/ADMre10.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMre10.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMre10.png  used on input li
+ne 350.
+(pdftex.def)             Requested size: 108.0011pt x 33.06522pt.
+
+Overfull \hbox (75.28976pt too wide) in paragraph at lines 278--353
+ [] 
+ []
+
+
+Overfull \hbox (61.78474pt too wide) in paragraph at lines 278--353
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 355.
+LaTeX Info: Redefining \% on input line 355.
+ [38 <./arquitectura_diseno/imgs/ADMre1.png> <./arquitectura_diseno/imgs/ADMre2
+.png> <./arquitectura_diseno/imgs/ADMre4.png> <./arquitectura_diseno/imgs/ADMre
+5.jpg> <./arquitectura_diseno/imgs/ADMre6.png> <./arquitectura_diseno/imgs/ADMr
+e7.png> <./arquitectura_diseno/imgs/ADMre8.png>]
+<arquitectura_diseno/imgs/ADMre11.png, id=209, 81.4242pt x 65.5248pt>
+File: arquitectura_diseno/imgs/ADMre11.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMre11.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMre11.png  used on input li
+ne 364.
+(pdftex.def)             Requested size: 108.0011pt x 86.91391pt.
+<arquitectura_diseno/imgs/ADMre12.png, id=210, 9.1542pt x 9.1542pt>
+File: arquitectura_diseno/imgs/ADMre12.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMre12.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMre12.png  used on input li
+ne 371.
+(pdftex.def)             Requested size: 36.0022pt x 36.00935pt.
+<arquitectura_diseno/imgs/ADMre13.jpg, id=211, 52.5162pt x 14.454pt>
+File: arquitectura_diseno/imgs/ADMre13.jpg Graphic file (type jpg)
+<use arquitectura_diseno/imgs/ADMre13.jpg>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMre13.jpg  used on input li
+ne 377.
+(pdftex.def)             Requested size: 36.0022pt x 9.90884pt.
+
+Overfull \hbox (37.36015pt too wide) in paragraph at lines 355--380
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 383.
+LaTeX Info: Redefining \% on input line 383.
+[39 <./arquitectura_diseno/imgs/ADMre9.png> <./arquitectura_diseno/imgs/ADMre10
+.png> <./arquitectura_diseno/imgs/ADMre11.png> <./arquitectura_diseno/imgs/ADMr
+e12.png> <./arquitectura_diseno/imgs/ADMre13.jpg>]
+<arquitectura_diseno/imgs/ADMmo1.png, id=219, 92.0238pt x 35.1714pt>
+File: arquitectura_diseno/imgs/ADMmo1.png Graphic file (type png)
+<use arquitectura_diseno/imgs/ADMmo1.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMmo1.png  used on input lin
+e 399.
+(pdftex.def)             Requested size: 108.0011pt x 41.27756pt.
+<arquitectura_diseno/imgs/ADMmo2.jpg, id=220, 97.3236pt x 33.2442pt>
+File: arquitectura_diseno/imgs/ADMmo2.jpg Graphic file (type jpg)
+<use arquitectura_diseno/imgs/ADMmo2.jpg>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMmo2.jpg  used on input lin
+e 406.
+(pdftex.def)             Requested size: 108.0011pt x 36.89235pt.
+<arquitectura_diseno/imgs/ADMmo3.jpg, id=221, 100.2144pt x 41.4348pt>
+File: arquitectura_diseno/imgs/ADMmo3.jpg Graphic file (type jpg)
+<use arquitectura_diseno/imgs/ADMmo3.jpg>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMmo3.jpg  used on input lin
+e 413.
+(pdftex.def)             Requested size: 108.0011pt x 44.65532pt.
+<arquitectura_diseno/imgs/ADMmo4.jpg, id=222, 104.0688pt x 42.8802pt>
+File: arquitectura_diseno/imgs/ADMmo4.jpg Graphic file (type jpg)
+<use arquitectura_diseno/imgs/ADMmo4.jpg>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMmo4.jpg  used on input lin
+e 420.
+(pdftex.def)             Requested size: 108.0011pt x 44.50273pt.
+<arquitectura_diseno/imgs/ADMmo5.jpg, id=223, 166.221pt x 38.544pt>
+File: arquitectura_diseno/imgs/ADMmo5.jpg Graphic file (type jpg)
+<use arquitectura_diseno/imgs/ADMmo5.jpg>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMmo5.jpg  used on input lin
+e 427.
+(pdftex.def)             Requested size: 143.9978pt x 33.39067pt.
+
+Overfull \hbox (5.38402pt too wide) in paragraph at lines 427--428
+[][]| 
+ []
+
+<arquitectura_diseno/imgs/ADMmo6.jpg, id=224, 166.221pt x 38.544pt>
+File: arquitectura_diseno/imgs/ADMmo6.jpg Graphic file (type jpg)
+<use arquitectura_diseno/imgs/ADMmo6.jpg>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMmo6.jpg  used on input lin
+e 434.
+(pdftex.def)             Requested size: 143.9978pt x 33.39067pt.
+
+Overfull \hbox (5.38402pt too wide) in paragraph at lines 434--435
+[][]| 
+ []
+
+<arquitectura_diseno/imgs/ADMmo7.jpg, id=225, 103.1052pt x 42.8802pt>
+File: arquitectura_diseno/imgs/ADMmo7.jpg Graphic file (type jpg)
+<use arquitectura_diseno/imgs/ADMmo7.jpg>
+Package pdftex.def Info: arquitectura_diseno/imgs/ADMmo7.jpg  used on input lin
+e 442.
+(pdftex.def)             Requested size: 108.0011pt x 44.91756pt.
+
+Overfull \hbox (30.06012pt too wide) in paragraph at lines 387--445
+ [] 
+ []
+
+LaTeX Info: Redefining \. on input line 447.
+LaTeX Info: Redefining \% on input line 447.
+[40 <./arquitectura_diseno/imgs/ADMmo1.png> <./arquitectura_diseno/imgs/ADMmo2.
+jpg> <./arquitectura_diseno/imgs/ADMmo3.jpg> <./arquitectura_diseno/imgs/ADMmo4
+.jpg> <./arquitectura_diseno/imgs/ADMmo5.jpg> <./arquitectura_diseno/imgs/ADMmo
+6.jpg> <./arquitectura_diseno/imgs/ADMmo7.jpg>]
+<arquitectura_diseno/imgs/adm.png, id=229, 231.86626pt x 291.489pt>
+File: arquitectura_diseno/imgs/adm.png Graphic file (type png)
+<use arquitectura_diseno/imgs/adm.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/adm.png  used on input line 4
+54.
+(pdftex.def)             Requested size: 251.9989pt x 316.80492pt.
+)
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+ [41 <./arquitectura_diseno/imgs/adm.png>]
+\openout2 = `arquitectura_diseno/negocio.aux'.
+
+ (./arquitectura_diseno/negocio.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-
-[28
+ [42
 
 
 
 ]
 Cap\'{\i }tulo 4.
-[29]
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
- [30]
-Underfull \hbox (badness 10000) in paragraph at lines 20--20
-[]\OT1/cmr/m/n/10.95 Actor de
- []
-
-
-Underfull \hbox (badness 3068) in paragraph at lines 20--20
-[]\OT1/cmr/m/n/10.95 Una en-ti-dad or-ga-ni-za-cio-nal
- []
-
-<arquitectura_diseno/imgs/ADMneg1.png, id=107, 131.0496pt x 42.8802pt>
-File: arquitectura_diseno/imgs/ADMneg1.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMneg1.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg1.png  used on input li
-ne 22.
-(pdftex.def)             Requested size: 108.0011pt x 35.33864pt.
-<arquitectura_diseno/imgs/ADMneg2.png, id=109, 148.8762pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMneg2.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMneg2.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg2.png  used on input li
-ne 27.
-(pdftex.def)             Requested size: 108.0011pt x 30.75713pt.
-
-Overfull \hbox (6.0875pt too wide) in paragraph at lines 30--31
-[]\OT1/cmr/m/n/10.95 Colaboraci^^Son
- []
-
-<arquitectura_diseno/imgs/ADMneg3.png, id=110, 137.7948pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMneg3.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMneg3.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg3.png  used on input li
-ne 35.
-(pdftex.def)             Requested size: 108.0011pt x 33.23235pt.
-
-Underfull \hbox (badness 2689) in paragraph at lines 38--39
-[]\OT1/cmr/m/n/10.95 Interfaz de
- []
-
-<arquitectura_diseno/imgs/ADMneg4.png, id=111, 155.1396pt x 41.4348pt>
-File: arquitectura_diseno/imgs/ADMneg4.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMneg4.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg4.png  used on input li
-ne 42.
-(pdftex.def)             Requested size: 108.0011pt x 28.84608pt.
-<arquitectura_diseno/imgs/ADMneg5.png, id=112, 125.268pt x 42.8802pt>
-File: arquitectura_diseno/imgs/ADMneg5.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMneg5.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg5.png  used on input li
-ne 46.
-(pdftex.def)             Requested size: 108.0011pt x 36.9698pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
-[]\OT1/cmr/m/n/10.95 Objeto de
- []
-
-<arquitectura_diseno/imgs/ADMneg11.png, id=113, 61.6704pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMneg11.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMneg11.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg11.png  used on input l
-ine 51.
-(pdftex.def)             Requested size: 108.0011pt x 74.2578pt.
-
-Underfull \hbox (badness 2384) in paragraph at lines 54--55
-[]\OT1/cmr/m/n/10.95 Proceso de
- []
-
-
-Underfull \hbox (badness 1968) in paragraph at lines 56--56
-[]\OT1/cmr/m/n/10.95 Un ele-men-to de com-por-ta-
- []
-
-<arquitectura_diseno/imgs/ADMneg6.png, id=114, 148.3944pt x 43.8438pt>
-File: arquitectura_diseno/imgs/ADMneg6.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMneg6.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg6.png  used on input li
-ne 57.
-(pdftex.def)             Requested size: 108.0011pt x 31.91002pt.
-
-Underfull \hbox (badness 1436) in paragraph at lines 60--61
-[]\OT1/cmr/m/n/10.95 Funci^^Son de
- []
-
-
-Underfull \hbox (badness 1968) in paragraph at lines 63--63
-[]\OT1/cmr/m/n/10.95 Un ele-men-to de com-por-ta-
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 63--63
-\OT1/cmr/m/n/10.95 re-cur-sos co-mer-cia-les y / o
- []
-
-<arquitectura_diseno/imgs/ADMneg7.png, id=115, 137.7948pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMneg7.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMneg7.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg7.png  used on input li
-ne 64.
-(pdftex.def)             Requested size: 108.0011pt x 33.23235pt.
-
-Overfull \hbox (17.43306pt too wide) in paragraph at lines 15--68
- [] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 69.
-LaTeX Info: Redefining \% on input line 69.
- [31]
-Underfull \hbox (badness 1968) in paragraph at lines 73--73
-[]\OT1/cmr/m/n/10.95 Un ele-men-to de com-por-ta-
- []
-
-<arquitectura_diseno/imgs/ADMneg8.png, id=120, 129.6042pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMneg8.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMneg8.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg8.png  used on input li
-ne 74.
-(pdftex.def)             Requested size: 108.0011pt x 35.33168pt.
-<arquitectura_diseno/imgs/ADMneg9.png, id=121, 141.6492pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMneg9.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMneg9.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg9.png  used on input li
-ne 80.
-(pdftex.def)             Requested size: 108.0011pt x 32.32661pt.
-<arquitectura_diseno/imgs/ADMneg10.png, id=122, 151.2852pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMneg10.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMneg10.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg10.png  used on input l
-ine 86.
-(pdftex.def)             Requested size: 108.0011pt x 30.26804pt.
-<arquitectura_diseno/imgs/ADMneg12.png, id=123, 66.4884pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMneg12.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMneg12.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg12.png  used on input l
-ine 93.
-(pdftex.def)             Requested size: 108.0011pt x 68.87392pt.
-<arquitectura_diseno/imgs/ADMneg13.png, id=124, 61.6704pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMneg13.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMneg13.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg13.png  used on input l
-ine 101.
-(pdftex.def)             Requested size: 108.0011pt x 74.2578pt.
-<arquitectura_diseno/imgs/ADMneg14.png, id=125, 61.6704pt x 33.726pt>
-File: arquitectura_diseno/imgs/ADMneg14.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMneg14.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg14.png  used on input l
-ine 110.
-(pdftex.def)             Requested size: 108.0011pt x 59.0687pt.
-
-Underfull \hbox (badness 1231) in paragraph at lines 116--117
-[]\OT1/cmr/m/n/10.95 Una co-lec-ci^^Son cohe-ren-te de
- []
-
-<arquitectura_diseno/imgs/ADMneg15.png, id=126, 61.6704pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMneg15.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMneg15.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg15.png  used on input l
-ine 118.
-(pdftex.def)             Requested size: 108.0011pt x 74.2578pt.
-<arquitectura_diseno/imgs/ADMneg16.png, id=127, 61.6704pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMneg16.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMneg16.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMneg16.png  used on input l
-ine 124.
-(pdftex.def)             Requested size: 108.0011pt x 74.2578pt.
-
-Overfull \hbox (70.36223pt too wide) in paragraph at lines 69--128
- [][] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 128.
-LaTeX Info: Redefining \% on input line 128.
- [32 <./arquitectura_diseno/imgs/ADMneg1.png> <./arquitectura_diseno/imgs/ADMne
-g2.png> <./arquitectura_diseno/imgs/ADMneg3.png> <./arquitectura_diseno/imgs/AD
-Mneg4.png> <./arquitectura_diseno/imgs/ADMneg5.png> <./arquitectura_diseno/imgs
-/ADMneg11.png> <./arquitectura_diseno/imgs/ADMneg6.png> <./arquitectura_diseno/
-imgs/ADMneg7.png>]
-Overfull \vbox (49.74228pt too high) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 128.
-LaTeX Info: Redefining \% on input line 128.
-
-[33 <./arquitectura_diseno/imgs/ADMneg8.png> <./arquitectura_diseno/imgs/ADMneg
-9.png> <./arquitectura_diseno/imgs/ADMneg10.png> <./arquitectura_diseno/imgs/AD
-Mneg12.png> <./arquitectura_diseno/imgs/ADMneg13.png> <./arquitectura_diseno/im
-gs/ADMneg14.png> <./arquitectura_diseno/imgs/ADMneg15.png> <./arquitectura_dise
-no/imgs/ADMneg16.png>]
-Underfull \hbox (badness 1616) in paragraph at lines 142--142
-[]\OT1/cmr/m/n/10.95 Una par-te mo-du-lar, im-ple-
- []
-
-<arquitectura_diseno/imgs/ADMap1.png, id=150, 155.1396pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMap1.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMap1.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMap1.png  used on input lin
-e 143.
-(pdftex.def)             Requested size: 108.0011pt x 29.51692pt.
-
-Underfull \hbox (badness 7012) in paragraph at lines 150--150
-\OT1/cmr/m/n/10.95 com-po-nen-tes de apli-ca-ci^^Son
- []
-
-<arquitectura_diseno/imgs/ADMap2.png, id=151, 141.6492pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMap2.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMap2.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMap2.png  used on input lin
-e 151.
-(pdftex.def)             Requested size: 108.0011pt x 32.32661pt.
-<arquitectura_diseno/imgs/ADMap3.png, id=152, 153.6942pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMap3.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMap3.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMap3.png  used on input lin
-e 159.
-(pdftex.def)             Requested size: 108.0011pt x 29.79446pt.
-<arquitectura_diseno/imgs/ADMap7.png, id=153, 61.6704pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMap7.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMap7.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMap7.png  used on input lin
-e 168.
-(pdftex.def)             Requested size: 108.0011pt x 74.2578pt.
-
-Underfull \hbox (badness 1968) in paragraph at lines 175--175
-[]\OT1/cmr/m/n/10.95 Un ele-men-to de com-por-ta-
- []
-
-
-Underfull \hbox (badness 2626) in paragraph at lines 175--175
-\OT1/cmr/m/n/10.95 ta-mien-to au-to-ma-ti-za-do que
- []
-
-<arquitectura_diseno/imgs/ADMap4.png, id=154, 137.7948pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMap4.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMap4.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMap4.png  used on input lin
-e 176.
-(pdftex.def)             Requested size: 108.0011pt x 33.23235pt.
-
-Underfull \hbox (badness 1968) in paragraph at lines 182--182
-[]\OT1/cmr/m/n/10.95 Un ele-men-to de com-por-ta-
- []
-
-<arquitectura_diseno/imgs/ADMap5.png, id=155, 129.6042pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMap5.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMap5.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMap5.png  used on input lin
-e 183.
-(pdftex.def)             Requested size: 108.0011pt x 35.33168pt.
-
-Underfull \hbox (badness 1931) in paragraph at lines 189--189
-[]\OT1/cmr/m/n/10.95 Un ser-vi-cio que ex-po-ne el
- []
-
-<arquitectura_diseno/imgs/ADMap6.png, id=156, 154.6578pt x 43.8438pt>
-File: arquitectura_diseno/imgs/ADMap6.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMap6.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMap6.png  used on input lin
-e 190.
-(pdftex.def)             Requested size: 108.0011pt x 30.61684pt.
-
-Overfull \hbox (89.22061pt too wide) in paragraph at lines 134--194
- [] 
- []
-
-<arquitectura_diseno/imgs/ADMte1.png, id=157, 147.4308pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMte1.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMte1.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMte1.png  used on input lin
-e 209.
-(pdftex.def)             Requested size: 108.0011pt x 31.05925pt.
-<arquitectura_diseno/imgs/ADMte2.png, id=158, 183.084pt x 47.2164pt>
-File: arquitectura_diseno/imgs/ADMte2.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMte2.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMte2.png  used on input lin
-e 215.
-(pdftex.def)             Requested size: 108.0011pt x 27.85309pt.
-
-Underfull \hbox (badness 1430) in paragraph at lines 220--220
-[]\OT1/cmr/m/n/10.95 Un me-dio de co-mu-ni-ca-ci^^Son
- []
-
-<arquitectura_diseno/imgs/ADMte3.png, id=159, 143.5764pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMte3.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMte3.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMte3.png  used on input lin
-e 222.
-(pdftex.def)             Requested size: 108.0011pt x 31.89381pt.
-<arquitectura_diseno/imgs/ADMte4.png, id=160, 145.5036pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMte4.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMte4.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMte4.png  used on input lin
-e 229.
-(pdftex.def)             Requested size: 108.0011pt x 31.4707pt.
-
-Underfull \hbox (badness 1107) in paragraph at lines 234--234
-[]\OT1/cmr/m/n/10.95 Un pun-to de ac-ce-so don-de
- []
-
-<arquitectura_diseno/imgs/ADMte5.png, id=161, 139.2402pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMte5.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMte5.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMte5.png  used on input lin
-e 236.
-(pdftex.def)             Requested size: 108.0011pt x 32.88687pt.
-<arquitectura_diseno/imgs/ADMte6.png, id=162, 139.2402pt x 42.8802pt>
-File: arquitectura_diseno/imgs/ADMte6.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMte6.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMte6.png  used on input lin
-e 244.
-(pdftex.def)             Requested size: 108.0011pt x 33.26059pt.
-
-Underfull \hbox (badness 1968) in paragraph at lines 249--249
-[]\OT1/cmr/m/n/10.95 Un ele-men-to de com-por-ta-
- []
-
-<arquitectura_diseno/imgs/ADMte7.jpg, id=163, 131.5314pt x 55.8888pt>
-File: arquitectura_diseno/imgs/ADMte7.jpg Graphic file (type jpg)
-<use arquitectura_diseno/imgs/ADMte7.jpg>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMte7.jpg  used on input lin
-e 251.
-(pdftex.def)             Requested size: 108.0011pt x 45.89305pt.
-<arquitectura_diseno/imgs/ADMte8.png, id=164, 142.131pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMte8.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMte8.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMte8.png  used on input lin
-e 259.
-(pdftex.def)             Requested size: 108.0011pt x 32.21793pt.
-
-Overfull \hbox (102.79134pt too wide) in paragraph at lines 200--262
- [] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 262.
-LaTeX Info: Redefining \% on input line 262.
- [34 <./arquitectura_diseno/imgs/ADMap1.png> <./arquitectura_diseno/imgs/ADMap2
-.png> <./arquitectura_diseno/imgs/ADMap3.png> <./arquitectura_diseno/imgs/ADMap
-7.png> <./arquitectura_diseno/imgs/ADMap4.png> <./arquitectura_diseno/imgs/ADMa
-p5.png> <./arquitectura_diseno/imgs/ADMap6.png>]
-<arquitectura_diseno/imgs/ADMte9.png, id=175, 132.495pt x 42.3984pt>
-File: arquitectura_diseno/imgs/ADMte9.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMte9.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMte9.png  used on input lin
-e 274.
-(pdftex.def)             Requested size: 108.0011pt x 34.56052pt.
-
-Overfull \hbox (102.79134pt too wide) in paragraph at lines 264--278
- [][] 
- []
-
-LaTeX Info: Redefining \. on input line 278.
-LaTeX Info: Redefining \% on input line 278.
-[35 <./arquitectura_diseno/imgs/ADMte1.png> <./arquitectura_diseno/imgs/ADMte2.
-png> <./arquitectura_diseno/imgs/ADMte3.png> <./arquitectura_diseno/imgs/ADMte4
-.png> <./arquitectura_diseno/imgs/ADMte5.png> <./arquitectura_diseno/imgs/ADMte
-6.png> <./arquitectura_diseno/imgs/ADMte7.jpg> <./arquitectura_diseno/imgs/ADMt
-e8.png>]
-LaTeX Info: Redefining \. on input line 279.
-LaTeX Info: Redefining \% on input line 279.
- [36 <./arquitectura_diseno/imgs/ADMte9.png>]
-<arquitectura_diseno/imgs/ADMre1.png, id=189, 45.771pt x 2.8908pt>
-File: arquitectura_diseno/imgs/ADMre1.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMre1.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMre1.png  used on input lin
-e 291.
-(pdftex.def)             Requested size: 108.0011pt x 6.8218pt.
-<arquitectura_diseno/imgs/ADMre2.png, id=190, 42.8802pt x 9.1542pt>
-File: arquitectura_diseno/imgs/ADMre2.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMre2.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMre2.png  used on input lin
-e 297.
-(pdftex.def)             Requested size: 108.0011pt x 23.05905pt.
-<arquitectura_diseno/imgs/ADMre4.png, id=191, 49.1436pt x 19.7538pt>
-File: arquitectura_diseno/imgs/ADMre4.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMre4.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMre4.png  used on input lin
-e 304.
-(pdftex.def)             Requested size: 108.0011pt x 43.41444pt.
-<arquitectura_diseno/imgs/ADMre5.jpg, id=192, 58.7796pt x 13.4904pt>
-File: arquitectura_diseno/imgs/ADMre5.jpg Graphic file (type jpg)
-<use arquitectura_diseno/imgs/ADMre5.jpg>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMre5.jpg  used on input lin
-e 312.
-(pdftex.def)             Requested size: 108.0011pt x 24.78947pt.
-<arquitectura_diseno/imgs/ADMre6.png, id=193, 60.225pt x 15.8994pt>
-File: arquitectura_diseno/imgs/ADMre6.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMre6.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMre6.png  used on input lin
-e 319.
-(pdftex.def)             Requested size: 108.0011pt x 28.51501pt.
-<arquitectura_diseno/imgs/ADMre7.png, id=194, 71.3064pt x 25.5354pt>
-File: arquitectura_diseno/imgs/ADMre7.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMre7.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMre7.png  used on input lin
-e 327.
-(pdftex.def)             Requested size: 108.0011pt x 38.67664pt.
-<arquitectura_diseno/imgs/ADMre8.png, id=195, 70.8246pt x 25.5354pt>
-File: arquitectura_diseno/imgs/ADMre8.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMre8.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMre8.png  used on input lin
-e 335.
-(pdftex.def)             Requested size: 108.0011pt x 38.94121pt.
-<arquitectura_diseno/imgs/ADMre9.png, id=196, 47.2164pt x 14.454pt>
-File: arquitectura_diseno/imgs/ADMre9.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMre9.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMre9.png  used on input lin
-e 348.
-(pdftex.def)             Requested size: 108.0011pt x 33.06522pt.
-
-Underfull \hbox (badness 3148) in paragraph at lines 353--353
-[]\OT1/cmr/m/n/10.95 La re-la-ci^^Son des-en-ca-de-nan-te
- []
-
-<arquitectura_diseno/imgs/ADMre10.png, id=197, 47.2164pt x 14.454pt>
-File: arquitectura_diseno/imgs/ADMre10.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMre10.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMre10.png  used on input li
-ne 355.
-(pdftex.def)             Requested size: 108.0011pt x 33.06522pt.
-
-Overfull \hbox (75.28976pt too wide) in paragraph at lines 283--358
- [] 
- []
-
-
-Overfull \hbox (61.78474pt too wide) in paragraph at lines 283--358
- [] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 360.
-LaTeX Info: Redefining \% on input line 360.
- [37 <./arquitectura_diseno/imgs/ADMre1.png> <./arquitectura_diseno/imgs/ADMre2
-.png> <./arquitectura_diseno/imgs/ADMre4.png> <./arquitectura_diseno/imgs/ADMre
-5.jpg> <./arquitectura_diseno/imgs/ADMre6.png> <./arquitectura_diseno/imgs/ADMr
-e7.png> <./arquitectura_diseno/imgs/ADMre8.png>]
-<arquitectura_diseno/imgs/ADMre11.png, id=208, 81.4242pt x 65.5248pt>
-File: arquitectura_diseno/imgs/ADMre11.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMre11.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMre11.png  used on input li
-ne 369.
-(pdftex.def)             Requested size: 108.0011pt x 86.91391pt.
-<arquitectura_diseno/imgs/ADMre12.png, id=209, 9.1542pt x 9.1542pt>
-File: arquitectura_diseno/imgs/ADMre12.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMre12.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMre12.png  used on input li
-ne 376.
-(pdftex.def)             Requested size: 36.0022pt x 36.00935pt.
-<arquitectura_diseno/imgs/ADMre13.jpg, id=210, 52.5162pt x 14.454pt>
-File: arquitectura_diseno/imgs/ADMre13.jpg Graphic file (type jpg)
-<use arquitectura_diseno/imgs/ADMre13.jpg>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMre13.jpg  used on input li
-ne 382.
-(pdftex.def)             Requested size: 36.0022pt x 9.90884pt.
-
-Overfull \hbox (37.36015pt too wide) in paragraph at lines 360--385
- [][] 
- []
-
-LaTeX Info: Redefining \. on input line 388.
-LaTeX Info: Redefining \% on input line 388.
-[38 <./arquitectura_diseno/imgs/ADMre9.png> <./arquitectura_diseno/imgs/ADMre10
-.png> <./arquitectura_diseno/imgs/ADMre11.png> <./arquitectura_diseno/imgs/ADMr
-e12.png> <./arquitectura_diseno/imgs/ADMre13.jpg>]
-<arquitectura_diseno/imgs/ADMmo1.png, id=218, 92.0238pt x 35.1714pt>
-File: arquitectura_diseno/imgs/ADMmo1.png Graphic file (type png)
-<use arquitectura_diseno/imgs/ADMmo1.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMmo1.png  used on input lin
-e 404.
-(pdftex.def)             Requested size: 108.0011pt x 41.27756pt.
-<arquitectura_diseno/imgs/ADMmo2.jpg, id=219, 97.3236pt x 33.2442pt>
-File: arquitectura_diseno/imgs/ADMmo2.jpg Graphic file (type jpg)
-<use arquitectura_diseno/imgs/ADMmo2.jpg>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMmo2.jpg  used on input lin
-e 411.
-(pdftex.def)             Requested size: 108.0011pt x 36.89235pt.
-<arquitectura_diseno/imgs/ADMmo3.jpg, id=220, 100.2144pt x 41.4348pt>
-File: arquitectura_diseno/imgs/ADMmo3.jpg Graphic file (type jpg)
-<use arquitectura_diseno/imgs/ADMmo3.jpg>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMmo3.jpg  used on input lin
-e 418.
-(pdftex.def)             Requested size: 108.0011pt x 44.65532pt.
-<arquitectura_diseno/imgs/ADMmo4.jpg, id=221, 104.0688pt x 42.8802pt>
-File: arquitectura_diseno/imgs/ADMmo4.jpg Graphic file (type jpg)
-<use arquitectura_diseno/imgs/ADMmo4.jpg>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMmo4.jpg  used on input lin
-e 425.
-(pdftex.def)             Requested size: 108.0011pt x 44.50273pt.
-<arquitectura_diseno/imgs/ADMmo5.jpg, id=222, 166.221pt x 38.544pt>
-File: arquitectura_diseno/imgs/ADMmo5.jpg Graphic file (type jpg)
-<use arquitectura_diseno/imgs/ADMmo5.jpg>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMmo5.jpg  used on input lin
-e 432.
-(pdftex.def)             Requested size: 143.9978pt x 33.39067pt.
-
-Overfull \hbox (5.38402pt too wide) in paragraph at lines 432--433
-[][]| 
- []
-
-<arquitectura_diseno/imgs/ADMmo6.jpg, id=223, 166.221pt x 38.544pt>
-File: arquitectura_diseno/imgs/ADMmo6.jpg Graphic file (type jpg)
-<use arquitectura_diseno/imgs/ADMmo6.jpg>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMmo6.jpg  used on input lin
-e 439.
-(pdftex.def)             Requested size: 143.9978pt x 33.39067pt.
-
-Overfull \hbox (5.38402pt too wide) in paragraph at lines 439--440
-[][]| 
- []
-
-<arquitectura_diseno/imgs/ADMmo7.jpg, id=224, 103.1052pt x 42.8802pt>
-File: arquitectura_diseno/imgs/ADMmo7.jpg Graphic file (type jpg)
-<use arquitectura_diseno/imgs/ADMmo7.jpg>
-Package pdftex.def Info: arquitectura_diseno/imgs/ADMmo7.jpg  used on input lin
-e 447.
-(pdftex.def)             Requested size: 108.0011pt x 44.91756pt.
-
-Overfull \hbox (30.06012pt too wide) in paragraph at lines 392--450
- [] 
- []
-
-LaTeX Info: Redefining \. on input line 452.
-LaTeX Info: Redefining \% on input line 452.
-[39 <./arquitectura_diseno/imgs/ADMmo1.png> <./arquitectura_diseno/imgs/ADMmo2.
-jpg> <./arquitectura_diseno/imgs/ADMmo3.jpg> <./arquitectura_diseno/imgs/ADMmo4
-.jpg> <./arquitectura_diseno/imgs/ADMmo5.jpg> <./arquitectura_diseno/imgs/ADMmo
-6.jpg> <./arquitectura_diseno/imgs/ADMmo7.jpg>]
-<arquitectura_diseno/imgs/adm.png, id=228, 231.86626pt x 291.489pt>
-File: arquitectura_diseno/imgs/adm.png Graphic file (type png)
-<use arquitectura_diseno/imgs/adm.png>
-Package pdftex.def Info: arquitectura_diseno/imgs/adm.png  used on input line 4
-59.
-(pdftex.def)             Requested size: 251.9989pt x 316.80492pt.
-)
-LaTeX Info: Redefining \. on input line 22.
-LaTeX Info: Redefining \% on input line 22.
- [40 <./arquitectura_diseno/imgs/adm.png>]
-\openout2 = `arquitectura_diseno/negocio.aux'.
-
- (./arquitectura_diseno/negocio.tex
-Cap\'{\i }tulo 5.
-[41
-
-
-
-]
-<arquitectura_diseno/imgs/M_Organizacion.pdf, id=235, 364.66237pt x 127.17513pt
->
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
+[43]
+<arquitectura_diseno/imgs/M_Organizacion.png, id=240, 682.55pt x 215.80624pt>
+File: arquitectura_diseno/imgs/M_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.png  used on i
 nput line 11.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
+(pdftex.def)             Requested size: 288.0011pt x 91.0595pt.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
- [42 <./arquitectura_diseno/imgs/M_Organizacion.pdf>]
-<arquitectura_diseno/imgs/C_Organizacion.pdf, id=241, 347.09674pt x 127.87775pt
->
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
+ [44 <./arquitectura_diseno/imgs/M_Organizacion.png>]
+<arquitectura_diseno/imgs/C_Organizacion.png, id=245, 689.57625pt x 327.2225pt>
+
+File: arquitectura_diseno/imgs/C_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.png  used on i
 nput line 19.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
+(pdftex.def)             Requested size: 288.0011pt x 136.66359pt.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
- [43 <./arquitectura_diseno/imgs/C_Organizacion.pdf>]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
-nput line 29.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
+ [45 <./arquitectura_diseno/imgs/C_Organizacion.png>]
+<arquitectura_diseno/imgs/M_Coperacion.png, id=250, 701.62125pt x 310.15875pt>
+File: arquitectura_diseno/imgs/M_Coperacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Coperacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Coperacion.png  used on inp
+ut line 29.
+(pdftex.def)             Requested size: 288.0011pt x 127.31735pt.
 LaTeX Info: Redefining \. on input line 32.
 LaTeX Info: Redefining \% on input line 32.
- [44]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
-nput line 37.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
-LaTeX Info: Redefining \. on input line 41.
-LaTeX Info: Redefining \% on input line 41.
- [45]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
-nput line 47.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
-LaTeX Info: Redefining \. on input line 50.
-LaTeX Info: Redefining \% on input line 50.
- [46]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
-nput line 55.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
-LaTeX Info: Redefining \. on input line 59.
-LaTeX Info: Redefining \% on input line 59.
- [47]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
-nput line 65.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
- [48]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
-nput line 73.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
-LaTeX Info: Redefining \. on input line 77.
-LaTeX Info: Redefining \% on input line 77.
- [49]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
-nput line 83.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
-LaTeX Info: Redefining \. on input line 86.
-LaTeX Info: Redefining \% on input line 86.
- [50]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
-nput line 91.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
-LaTeX Info: Redefining \. on input line 95.
-LaTeX Info: Redefining \% on input line 95.
- [51]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
-nput line 101.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
-LaTeX Info: Redefining \. on input line 104.
-LaTeX Info: Redefining \% on input line 104.
+ [46 <./arquitectura_diseno/imgs/M_Coperacion.png>]
+<arquitectura_diseno/imgs/C_Coperacion.png, id=255, 883.3pt x 790.955pt>
+File: arquitectura_diseno/imgs/C_Coperacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Coperacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Coperacion.png  used on inp
+ut line 36.
+(pdftex.def)             Requested size: 288.0011pt x 257.89009pt.
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
+ [47 <./arquitectura_diseno/imgs/C_Coperacion.png>]
+<arquitectura_diseno/imgs/M_FuncionNegocio.png, id=260, 599.23875pt x 106.3975p
+t>
+File: arquitectura_diseno/imgs/M_FuncionNegocio.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_FuncionNegocio.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_FuncionNegocio.png  used on
+ input line 46.
+(pdftex.def)             Requested size: 288.0011pt x 51.13678pt.
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+ [48 <./arquitectura_diseno/imgs/M_FuncionNegocio.png>]
+<arquitectura_diseno/imgs/C_Funcion.png, id=265, 587.19376pt x 559.08875pt>
+File: arquitectura_diseno/imgs/C_Funcion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Funcion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Funcion.png  used on input 
+line 54.
+(pdftex.def)             Requested size: 288.0011pt x 274.2118pt.
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
+ [49 <./arquitectura_diseno/imgs/C_Funcion.png>]
+<arquitectura_diseno/imgs/M_ProcesoNegocio.png, id=271, 888.31876pt x 560.0925p
+t>
+File: arquitectura_diseno/imgs/M_ProcesoNegocio.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_ProcesoNegocio.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_ProcesoNegocio.png  used on
+ input line 64.
+(pdftex.def)             Requested size: 288.0011pt x 181.5835pt.
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
 
-[52]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
-nput line 109.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
+[50 <./arquitectura_diseno/imgs/M_ProcesoNegocio.png>]
+<arquitectura_diseno/imgs/C_ProcesoNegocio.png, id=277, 620.3175pt x 371.3875pt
+>
+File: arquitectura_diseno/imgs/C_ProcesoNegocio.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_ProcesoNegocio.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_ProcesoNegocio.png  used on
+ input line 72.
+(pdftex.def)             Requested size: 288.0011pt x 172.42705pt.
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
+ [51 <./arquitectura_diseno/imgs/C_ProcesoNegocio.png>]
+<arquitectura_diseno/imgs/M_CoperacionProceso.png, id=282, 888.31876pt x 560.09
+25pt>
+File: arquitectura_diseno/imgs/M_CoperacionProceso.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_CoperacionProceso.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_CoperacionProceso.png  used
+ on input line 82.
+(pdftex.def)             Requested size: 288.0011pt x 181.5835pt.
+LaTeX Info: Redefining \. on input line 85.
+LaTeX Info: Redefining \% on input line 85.
+ [52 <./arquitectura_diseno/imgs/M_CoperacionProceso.png>]
+<arquitectura_diseno/imgs/C_CoperacionProceso.png, id=287, 360.34625pt x 339.26
+75pt>
+File: arquitectura_diseno/imgs/C_CoperacionProceso.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_CoperacionProceso.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_CoperacionProceso.png  used
+ on input line 90.
+(pdftex.def)             Requested size: 288.0011pt x 271.15034pt.
+LaTeX Info: Redefining \. on input line 94.
+LaTeX Info: Redefining \% on input line 94.
+ [53 <./arquitectura_diseno/imgs/C_CoperacionProceso.png>]
+<arquitectura_diseno/imgs/M_Producto.png, id=292, 747.79375pt x 496.85625pt>
+File: arquitectura_diseno/imgs/M_Producto.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Producto.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Producto.png  used on input
+ line 100.
+(pdftex.def)             Requested size: 288.0011pt x 191.35468pt.
+LaTeX Info: Redefining \. on input line 103.
+LaTeX Info: Redefining \% on input line 103.
+ [54 <./arquitectura_diseno/imgs/M_Producto.png>]
+<arquitectura_diseno/imgs/C_Producto.png, id=297, 567.11874pt x 498.86375pt>
+File: arquitectura_diseno/imgs/C_Producto.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Producto.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Producto.png  used on input
+ line 108.
+(pdftex.def)             Requested size: 288.0011pt x 253.34384pt.
 )
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
- [53]
+ [55 <./arquitectura_diseno/imgs/C_Producto.png>]
 \openout2 = `arquitectura_diseno/software.aux'.
 
  (./arquitectura_diseno/software.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [54
+ [56
+
+
+
+]
+Cap\'{\i }tulo 5.
+[57]
+<arquitectura_diseno/imgs/M_ComportamientoAplicacion.png, id=309, 753.81625pt x
+ 322.20375pt>
+File: arquitectura_diseno/imgs/M_ComportamientoAplicacion.png Graphic file (typ
+e png)
+<use arquitectura_diseno/imgs/M_ComportamientoAplicacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_ComportamientoAplicacion.pn
+g  used on input line 11.
+(pdftex.def)             Requested size: 288.0011pt x 123.09749pt.
+LaTeX Info: Redefining \. on input line 14.
+LaTeX Info: Redefining \% on input line 14.
+ [58 <./arquitectura_diseno/imgs/M_ComportamientoAplicacion.png>]
+<arquitectura_diseno/imgs/C_ComportamientoAplicacion.png, id=314, 846.16125pt x
+ 797.98125pt>
+File: arquitectura_diseno/imgs/C_ComportamientoAplicacion.png Graphic file (typ
+e png)
+<use arquitectura_diseno/imgs/C_ComportamientoAplicacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_ComportamientoAplicacion.pn
+g  used on input line 19.
+(pdftex.def)             Requested size: 288.0011pt x 271.60226pt.
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+ [59 <./arquitectura_diseno/imgs/C_ComportamientoAplicacion.png>]
+<arquitectura_diseno/imgs/M_CoperacionAplicacion.png, id=319, 561.09625pt x 214
+.8025pt>
+File: arquitectura_diseno/imgs/M_CoperacionAplicacion.png Graphic file (type pn
+g)
+<use arquitectura_diseno/imgs/M_CoperacionAplicacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_CoperacionAplicacion.png  u
+sed on input line 29.
+(pdftex.def)             Requested size: 288.0011pt x 110.2525pt.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+ [60 <./arquitectura_diseno/imgs/M_CoperacionAplicacion.png>]
+<arquitectura_diseno/imgs/C_CoperacionAplicacion.png, id=324, 784.9325pt x 533.
+995pt>
+File: arquitectura_diseno/imgs/C_CoperacionAplicacion.png Graphic file (type pn
+g)
+<use arquitectura_diseno/imgs/C_CoperacionAplicacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_CoperacionAplicacion.png  u
+sed on input line 37.
+(pdftex.def)             Requested size: 288.0011pt x 195.92914pt.
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
+ [61 <./arquitectura_diseno/imgs/C_CoperacionAplicacion.png>]
+<arquitectura_diseno/imgs/M_EstructuraAplicacion.png, id=330, 561.09625pt x 214
+.8025pt>
+File: arquitectura_diseno/imgs/M_EstructuraAplicacion.png Graphic file (type pn
+g)
+<use arquitectura_diseno/imgs/M_EstructuraAplicacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_EstructuraAplicacion.png  u
+sed on input line 47.
+(pdftex.def)             Requested size: 288.0011pt x 110.2525pt.
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
+ [62 <./arquitectura_diseno/imgs/M_EstructuraAplicacion.png>]
+<arquitectura_diseno/imgs/C_EstructuraAplicacion.png, id=335, 631.35875pt x 526
+.96875pt>
+File: arquitectura_diseno/imgs/C_EstructuraAplicacion.png Graphic file (type pn
+g)
+<use arquitectura_diseno/imgs/C_EstructuraAplicacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_EstructuraAplicacion.png  u
+sed on input line 55.
+(pdftex.def)             Requested size: 288.0011pt x 240.38226pt.
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+ [63 <./arquitectura_diseno/imgs/C_EstructuraAplicacion.png>]
+<arquitectura_diseno/imgs/M_UsoAplicacion.png, id=340, 624.3325pt x 453.695pt>
+File: arquitectura_diseno/imgs/M_UsoAplicacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_UsoAplicacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_UsoAplicacion.png  used on 
+input line 65.
+(pdftex.def)             Requested size: 288.0011pt x 209.29066pt.
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
+ [64 <./arquitectura_diseno/imgs/M_UsoAplicacion.png>]
+<arquitectura_diseno/imgs/C_UsoAplicacion.png, id=345, 582.175pt x 407.5225pt>
+File: arquitectura_diseno/imgs/C_UsoAplicacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_UsoAplicacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_UsoAplicacion.png  used on 
+input line 73.
+(pdftex.def)             Requested size: 288.0011pt x 201.603pt.
+)
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+ [65 <./arquitectura_diseno/imgs/C_UsoAplicacion.png>]
+\openout2 = `arquitectura_diseno/tecnologia.aux'.
+
+ (./arquitectura_diseno/tecnologia.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [66
 
 
 
 ]
 Cap\'{\i }tulo 6.
-[55]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
+[67]
+File: arquitectura_diseno/imgs/M_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.png  used on i
 nput line 11.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
+(pdftex.def)             Requested size: 288.0011pt x 91.0595pt.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
- [56]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
-nput line 19.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
- [57]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
-nput line 29.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
-LaTeX Info: Redefining \. on input line 32.
-LaTeX Info: Redefining \% on input line 32.
- [58]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
-nput line 37.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
-LaTeX Info: Redefining \. on input line 41.
-LaTeX Info: Redefining \% on input line 41.
- [59]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
-nput line 47.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
-LaTeX Info: Redefining \. on input line 50.
-LaTeX Info: Redefining \% on input line 50.
- [60]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
-nput line 55.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
-LaTeX Info: Redefining \. on input line 59.
-LaTeX Info: Redefining \% on input line 59.
- [61]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
-nput line 65.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
- [62]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
-nput line 73.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
-)
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
- [63]
-\openout2 = `arquitectura_diseno/tecnologia.aux'.
-
-
-(./arquitectura_diseno/tecnologia.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [64
-
-
-
-]
-Cap\'{\i }tulo 7.
-[65]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
-nput line 11.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
-LaTeX Info: Redefining \. on input line 14.
-LaTeX Info: Redefining \% on input line 14.
- [66]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
-nput line 19.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
- [67]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
-nput line 29.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
-LaTeX Info: Redefining \. on input line 32.
-LaTeX Info: Redefining \% on input line 32.
  [68]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
+File: arquitectura_diseno/imgs/C_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.png  used on i
+nput line 19.
+(pdftex.def)             Requested size: 288.0011pt x 136.66359pt.
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+ [69]
+File: arquitectura_diseno/imgs/M_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.png  used on i
+nput line 29.
+(pdftex.def)             Requested size: 288.0011pt x 91.0595pt.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+ [70]
+File: arquitectura_diseno/imgs/C_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.png  used on i
 nput line 37.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
+(pdftex.def)             Requested size: 288.0011pt x 136.66359pt.
 LaTeX Info: Redefining \. on input line 41.
 LaTeX Info: Redefining \% on input line 41.
- [69]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
+ [71]
+File: arquitectura_diseno/imgs/M_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.png  used on i
 nput line 47.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
+(pdftex.def)             Requested size: 288.0011pt x 91.0595pt.
 LaTeX Info: Redefining \. on input line 50.
 LaTeX Info: Redefining \% on input line 50.
- [70]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
+ [72]
+File: arquitectura_diseno/imgs/C_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.png  used on i
 nput line 55.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
+(pdftex.def)             Requested size: 288.0011pt x 136.66359pt.
 LaTeX Info: Redefining \. on input line 59.
 LaTeX Info: Redefining \% on input line 59.
- [71]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
+ [73]
+File: arquitectura_diseno/imgs/M_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.png  used on i
 nput line 65.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
+(pdftex.def)             Requested size: 288.0011pt x 91.0595pt.
 LaTeX Info: Redefining \. on input line 68.
 LaTeX Info: Redefining \% on input line 68.
- [72]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
+ [74]
+File: arquitectura_diseno/imgs/C_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.png  used on i
 nput line 73.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
+(pdftex.def)             Requested size: 288.0011pt x 136.66359pt.
 LaTeX Info: Redefining \. on input line 77.
 LaTeX Info: Redefining \% on input line 77.
- [73]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
+ [75]
+File: arquitectura_diseno/imgs/M_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.png  used on i
 nput line 83.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
+(pdftex.def)             Requested size: 288.0011pt x 91.0595pt.
 LaTeX Info: Redefining \. on input line 86.
 LaTeX Info: Redefining \% on input line 86.
- [74]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
+ [76]
+File: arquitectura_diseno/imgs/C_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.png  used on i
 nput line 91.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
+(pdftex.def)             Requested size: 288.0011pt x 136.66359pt.
 LaTeX Info: Redefining \. on input line 95.
 LaTeX Info: Redefining \% on input line 95.
- [75]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
+ [77]
+File: arquitectura_diseno/imgs/M_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.png  used on i
 nput line 101.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
+(pdftex.def)             Requested size: 288.0011pt x 91.0595pt.
 LaTeX Info: Redefining \. on input line 104.
 LaTeX Info: Redefining \% on input line 104.
- [76]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
+ [78]
+File: arquitectura_diseno/imgs/C_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.png  used on i
 nput line 109.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
+(pdftex.def)             Requested size: 288.0011pt x 136.66359pt.
 )
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
- [77]
+ [79]
 \openout2 = `arquitectura_diseno/motivacion.aux'.
 
 
 (./arquitectura_diseno/motivacion.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [78
+ [80
 
 
 
 ]
-Cap\'{\i }tulo 8.
-[79]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
+Cap\'{\i }tulo 7.
+[81]
+File: arquitectura_diseno/imgs/M_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.png  used on i
 nput line 11.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
+(pdftex.def)             Requested size: 288.0011pt x 91.0595pt.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
- [80]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
+ [82]
+File: arquitectura_diseno/imgs/C_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.png  used on i
 nput line 19.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
+(pdftex.def)             Requested size: 288.0011pt x 136.66359pt.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
- [81]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
+ [83]
+File: arquitectura_diseno/imgs/M_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.png  used on i
 nput line 29.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
+(pdftex.def)             Requested size: 288.0011pt x 91.0595pt.
 LaTeX Info: Redefining \. on input line 32.
 LaTeX Info: Redefining \% on input line 32.
- [82]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
+ [84]
+File: arquitectura_diseno/imgs/C_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.png  used on i
 nput line 37.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
+(pdftex.def)             Requested size: 288.0011pt x 136.66359pt.
 LaTeX Info: Redefining \. on input line 41.
 LaTeX Info: Redefining \% on input line 41.
- [83]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
+ [85]
+File: arquitectura_diseno/imgs/M_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.png  used on i
 nput line 47.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
+(pdftex.def)             Requested size: 288.0011pt x 91.0595pt.
 LaTeX Info: Redefining \. on input line 50.
 LaTeX Info: Redefining \% on input line 50.
- [84]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
+ [86]
+File: arquitectura_diseno/imgs/C_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.png  used on i
 nput line 55.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
+(pdftex.def)             Requested size: 288.0011pt x 136.66359pt.
 LaTeX Info: Redefining \. on input line 59.
 LaTeX Info: Redefining \% on input line 59.
- [85]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
+ [87]
+File: arquitectura_diseno/imgs/M_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.png  used on i
 nput line 65.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
+(pdftex.def)             Requested size: 288.0011pt x 91.0595pt.
 LaTeX Info: Redefining \. on input line 68.
 LaTeX Info: Redefining \% on input line 68.
- [86]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
+ [88]
+File: arquitectura_diseno/imgs/C_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.png  used on i
 nput line 73.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
+(pdftex.def)             Requested size: 288.0011pt x 136.66359pt.
 LaTeX Info: Redefining \. on input line 77.
 LaTeX Info: Redefining \% on input line 77.
- [87]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
+ [89]
+File: arquitectura_diseno/imgs/M_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.png  used on i
 nput line 83.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
+(pdftex.def)             Requested size: 288.0011pt x 91.0595pt.
 LaTeX Info: Redefining \. on input line 86.
 LaTeX Info: Redefining \% on input line 86.
- [88]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
+ [90]
+File: arquitectura_diseno/imgs/C_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.png  used on i
 nput line 91.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
+(pdftex.def)             Requested size: 288.0011pt x 136.66359pt.
 )
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
- [89]
+ [91]
 \openout2 = `arquitectura_diseno/migracion.aux'.
 
 
 (./arquitectura_diseno/migracion.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [90
+ [92
 
 
 
 ]
-Cap\'{\i }tulo 9.
-[91]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
+Cap\'{\i }tulo 8.
+[93]
+File: arquitectura_diseno/imgs/M_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.png  used on i
 nput line 11.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
+(pdftex.def)             Requested size: 288.0011pt x 91.0595pt.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
- [92]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
+ [94]
+File: arquitectura_diseno/imgs/C_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.png  used on i
 nput line 19.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
+(pdftex.def)             Requested size: 288.0011pt x 136.66359pt.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
- [93]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
+ [95]
+File: arquitectura_diseno/imgs/M_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.png  used on i
 nput line 29.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
+(pdftex.def)             Requested size: 288.0011pt x 91.0595pt.
 LaTeX Info: Redefining \. on input line 32.
 LaTeX Info: Redefining \% on input line 32.
- [94]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
+ [96]
+File: arquitectura_diseno/imgs/C_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.png  used on i
 nput line 37.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
+(pdftex.def)             Requested size: 288.0011pt x 136.66359pt.
 LaTeX Info: Redefining \. on input line 41.
 LaTeX Info: Redefining \% on input line 41.
- [95]
-File: arquitectura_diseno/imgs/M_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/M_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.pdf  used on i
+ [97]
+File: arquitectura_diseno/imgs/M_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/M_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/M_Organizacion.png  used on i
 nput line 47.
-(pdftex.def)             Requested size: 288.0011pt x 100.44006pt.
+(pdftex.def)             Requested size: 288.0011pt x 91.0595pt.
 LaTeX Info: Redefining \. on input line 50.
 LaTeX Info: Redefining \% on input line 50.
- [96]
-File: arquitectura_diseno/imgs/C_Organizacion.pdf Graphic file (type pdf)
-<use arquitectura_diseno/imgs/C_Organizacion.pdf>
-Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.pdf  used on i
+ [98]
+File: arquitectura_diseno/imgs/C_Organizacion.png Graphic file (type png)
+<use arquitectura_diseno/imgs/C_Organizacion.png>
+Package pdftex.def Info: arquitectura_diseno/imgs/C_Organizacion.png  used on i
 nput line 55.
-(pdftex.def)             Requested size: 288.0011pt x 106.1053pt.
+(pdftex.def)             Requested size: 288.0011pt x 136.66359pt.
 )
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
- [97]
+ [99]
 \openout2 = `arquitectura_diseno/patrones.aux'.
 
  (./arquitectura_diseno/patrones.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
-[98
+[100
 
 
 
 ]
-Cap\'{\i }tulo 10.
-[99])
+Cap\'{\i }tulo 9.
+[101])
 \openout2 = `arquitectura_diseno/creacionales.aux'.
 
  (./arquitectura_diseno/creacionales.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [100
+ [102
 
 
 
 ]
-Cap\'{\i }tulo 11.
-[101]
-<arquitectura_diseno/imgs/MCU_Singleton.pdf, id=433, 304.93924pt x 158.09062pt>
+Cap\'{\i }tulo 10.
+[103]
+<arquitectura_diseno/imgs/MCU_Singleton.pdf, id=472, 304.93924pt x 158.09062pt>
 
 File: arquitectura_diseno/imgs/MCU_Singleton.pdf Graphic file (type pdf)
 <use arquitectura_diseno/imgs/MCU_Singleton.pdf>
@@ -1376,8 +1385,8 @@ put line 12.
 (pdftex.def)             Requested size: 251.9989pt x 130.64346pt.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
- [102 <./arquitectura_diseno/imgs/MCU_Singleton.pdf>]
-<arquitectura_diseno/imgs/MSE_Singleton.pdf, id=439, 255.05287pt x 141.93024pt>
+ [104 <./arquitectura_diseno/imgs/MCU_Singleton.pdf>]
+<arquitectura_diseno/imgs/MSE_Singleton.pdf, id=478, 255.05287pt x 141.93024pt>
 
 File: arquitectura_diseno/imgs/MSE_Singleton.pdf Graphic file (type pdf)
 <use arquitectura_diseno/imgs/MSE_Singleton.pdf>
@@ -1386,8 +1395,8 @@ put line 20.
 (pdftex.def)             Requested size: 251.9989pt x 140.23198pt.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
- [103 <./arquitectura_diseno/imgs/MSE_Singleton.pdf>]
-<arquitectura_diseno/imgs/MCL_Singleton.pdf, id=446, 265.59225pt x 162.30637pt>
+ [105 <./arquitectura_diseno/imgs/MSE_Singleton.pdf>]
+<arquitectura_diseno/imgs/MCL_Singleton.pdf, id=484, 265.59225pt x 162.30637pt>
 
 File: arquitectura_diseno/imgs/MCL_Singleton.pdf Graphic file (type pdf)
 <use arquitectura_diseno/imgs/MCL_Singleton.pdf>
@@ -1396,11 +1405,11 @@ put line 28.
 (pdftex.def)             Requested size: 251.9989pt x 154.00688pt.
 LaTeX Info: Redefining \. on input line 31.
 LaTeX Info: Redefining \% on input line 31.
- [104 <./arquitectura_diseno/imgs/MCL_Singleton.pdf>]
+ [106 <./arquitectura_diseno/imgs/MCL_Singleton.pdf>]
 LaTeX Info: Redefining \. on input line 35.
 LaTeX Info: Redefining \% on input line 35.
- [105]
-<arquitectura_diseno/imgs/CCU_Singleton.pdf, id=455, 283.15788pt x 148.25388pt>
+ [107]
+<arquitectura_diseno/imgs/CCU_Singleton.pdf, id=493, 283.15788pt x 148.25388pt>
 
 File: arquitectura_diseno/imgs/CCU_Singleton.pdf Graphic file (type pdf)
 <use arquitectura_diseno/imgs/CCU_Singleton.pdf>
@@ -1409,8 +1418,8 @@ put line 40.
 (pdftex.def)             Requested size: 251.9989pt x 131.93872pt.
 LaTeX Info: Redefining \. on input line 43.
 LaTeX Info: Redefining \% on input line 43.
- [106 <./arquitectura_diseno/imgs/CCU_Singleton.pdf>]
-<arquitectura_diseno/imgs/CSE_Singleton.pdf, id=461, 233.2715pt x 174.95363pt>
+ [108 <./arquitectura_diseno/imgs/CCU_Singleton.pdf>]
+<arquitectura_diseno/imgs/CSE_Singleton.pdf, id=499, 233.2715pt x 174.95363pt>
 File: arquitectura_diseno/imgs/CSE_Singleton.pdf Graphic file (type pdf)
 <use arquitectura_diseno/imgs/CSE_Singleton.pdf>
 Package pdftex.def Info: arquitectura_diseno/imgs/CSE_Singleton.pdf  used on in
@@ -1418,8 +1427,8 @@ put line 48.
 (pdftex.def)             Requested size: 251.9989pt x 189.00314pt.
 LaTeX Info: Redefining \. on input line 51.
 LaTeX Info: Redefining \% on input line 51.
- [107 <./arquitectura_diseno/imgs/CSE_Singleton.pdf>]
-<arquitectura_diseno/imgs/CCL_Singleton.pdf, id=467, 241.703pt x 164.41425pt>
+ [109 <./arquitectura_diseno/imgs/CSE_Singleton.pdf>]
+<arquitectura_diseno/imgs/CCL_Singleton.pdf, id=506, 241.703pt x 164.41425pt>
 File: arquitectura_diseno/imgs/CCL_Singleton.pdf Graphic file (type pdf)
 <use arquitectura_diseno/imgs/CCL_Singleton.pdf>
 Package pdftex.def Info: arquitectura_diseno/imgs/CCL_Singleton.pdf  used on in
@@ -1427,23 +1436,23 @@ put line 56.
 (pdftex.def)             Requested size: 251.9989pt x 171.42831pt.
 LaTeX Info: Redefining \. on input line 59.
 LaTeX Info: Redefining \% on input line 59.
- [108 <./arquitectura_diseno/imgs/CCL_Singleton.pdf>])
+ [110 <./arquitectura_diseno/imgs/CCL_Singleton.pdf>])
 LaTeX Info: Redefining \. on input line 30.
 LaTeX Info: Redefining \% on input line 30.
- [109]
+ [111]
 \openout2 = `arquitectura_diseno/estructurales.aux'.
 
  (./arquitectura_diseno/estructurales.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [110
+ [112
 
 
 
 ]
-Cap\'{\i }tulo 12.
-[111]
-<arquitectura_diseno/imgs/MCU_Adaptador.pdf, id=483, 311.96548pt x 159.49586pt>
+Cap\'{\i }tulo 11.
+[113]
+<arquitectura_diseno/imgs/MCU_Adaptador.pdf, id=521, 311.96548pt x 159.49586pt>
 
 File: arquitectura_diseno/imgs/MCU_Adaptador.pdf Graphic file (type pdf)
 <use arquitectura_diseno/imgs/MCU_Adaptador.pdf>
@@ -1452,8 +1461,8 @@ put line 12.
 (pdftex.def)             Requested size: 251.9989pt x 128.84048pt.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
- [112 <./arquitectura_diseno/imgs/MCU_Adaptador.pdf>]
-<arquitectura_diseno/imgs/MSE_Adaptador.pdf, id=489, 207.97699pt x 177.76411pt>
+ [114 <./arquitectura_diseno/imgs/MCU_Adaptador.pdf>]
+<arquitectura_diseno/imgs/MSE_Adaptador.pdf, id=527, 207.97699pt x 177.76411pt>
 
 File: arquitectura_diseno/imgs/MSE_Adaptador.pdf Graphic file (type pdf)
 <use arquitectura_diseno/imgs/MSE_Adaptador.pdf>
@@ -1462,8 +1471,8 @@ put line 20.
 (pdftex.def)             Requested size: 251.9989pt x 215.39629pt.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
- [113 <./arquitectura_diseno/imgs/MSE_Adaptador.pdf>]
-<arquitectura_diseno/imgs/MCL_Adaptador.pdf, id=495, 479.19025pt x 243.81087pt>
+ [115 <./arquitectura_diseno/imgs/MSE_Adaptador.pdf>]
+<arquitectura_diseno/imgs/MCL_Adaptador.pdf, id=534, 479.19025pt x 243.81087pt>
 
 File: arquitectura_diseno/imgs/MCL_Adaptador.pdf Graphic file (type pdf)
 <use arquitectura_diseno/imgs/MCL_Adaptador.pdf>
@@ -1472,11 +1481,11 @@ put line 28.
 (pdftex.def)             Requested size: 251.9989pt x 128.21466pt.
 LaTeX Info: Redefining \. on input line 31.
 LaTeX Info: Redefining \% on input line 31.
- [114 <./arquitectura_diseno/imgs/MCL_Adaptador.pdf>]
+ [116 <./arquitectura_diseno/imgs/MCL_Adaptador.pdf>]
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
- [115]
-<arquitectura_diseno/imgs/CCU_Adaptador.pdf, id=505, 309.8576pt x 153.17224pt>
+ [117]
+<arquitectura_diseno/imgs/CCU_Adaptador.pdf, id=543, 309.8576pt x 153.17224pt>
 File: arquitectura_diseno/imgs/CCU_Adaptador.pdf Graphic file (type pdf)
 <use arquitectura_diseno/imgs/CCU_Adaptador.pdf>
 Package pdftex.def Info: arquitectura_diseno/imgs/CCU_Adaptador.pdf  used on in
@@ -1484,8 +1493,8 @@ put line 43.
 (pdftex.def)             Requested size: 251.9989pt x 124.57599pt.
 LaTeX Info: Redefining \. on input line 46.
 LaTeX Info: Redefining \% on input line 46.
- [116 <./arquitectura_diseno/imgs/CCU_Adaptador.pdf>]
-<arquitectura_diseno/imgs/CSE_Adaptador.pdf, id=511, 222.0295pt x 196.03238pt>
+ [118 <./arquitectura_diseno/imgs/CCU_Adaptador.pdf>]
+<arquitectura_diseno/imgs/CSE_Adaptador.pdf, id=549, 222.0295pt x 196.03238pt>
 File: arquitectura_diseno/imgs/CSE_Adaptador.pdf Graphic file (type pdf)
 <use arquitectura_diseno/imgs/CSE_Adaptador.pdf>
 Package pdftex.def Info: arquitectura_diseno/imgs/CSE_Adaptador.pdf  used on in
@@ -1493,8 +1502,8 @@ put line 51.
 (pdftex.def)             Requested size: 251.9989pt x 222.50409pt.
 LaTeX Info: Redefining \. on input line 54.
 LaTeX Info: Redefining \% on input line 54.
- [117 <./arquitectura_diseno/imgs/CSE_Adaptador.pdf>]
-<arquitectura_diseno/imgs/CCL_Adaptador.pdf, id=517, 459.51674pt x 243.10825pt>
+ [119 <./arquitectura_diseno/imgs/CSE_Adaptador.pdf>]
+<arquitectura_diseno/imgs/CCL_Adaptador.pdf, id=555, 459.51674pt x 243.10825pt>
 
 File: arquitectura_diseno/imgs/CCL_Adaptador.pdf Graphic file (type pdf)
 <use arquitectura_diseno/imgs/CCL_Adaptador.pdf>
@@ -1503,91 +1512,94 @@ put line 59.
 (pdftex.def)             Requested size: 251.9989pt x 133.32414pt.
 LaTeX Info: Redefining \. on input line 62.
 LaTeX Info: Redefining \% on input line 62.
- [118 <./arquitectura_diseno/imgs/CCL_Adaptador.pdf>])
+ [120 <./arquitectura_diseno/imgs/CCL_Adaptador.pdf>])
 LaTeX Info: Redefining \. on input line 31.
 LaTeX Info: Redefining \% on input line 31.
- [119]
+ [121]
 \openout2 = `arquitectura_diseno/comportamiento.aux'.
 
  (./arquitectura_diseno/comportamiento.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [120
+ [122
 
 
 
 ]
-Cap\'{\i }tulo 13.
-[121])
+Cap\'{\i }tulo 12.
+[123])
 LaTeX Info: Redefining \. on input line 33.
 LaTeX Info: Redefining \% on input line 33.
- [122
+ [124
 
 
-] [123] [124]
+] [125] [126]
 \openout2 = `consideraciones/reflexiones.aux'.
 
  (./consideraciones/reflexiones.tex
-Cap\'{\i }tulo 14.
-[125
+Cap\'{\i }tulo 13.
+[127
 
 
 ]
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
- [126]
+ [128]
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
- [127]) (./libro.bbl
+ [129]) (./libro.bbl
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [128
+ [130
 
 
-]) [129]
+]) [131]
 \openout2 = `consideraciones/anexos.aux'.
 
  (./consideraciones/anexos.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
-[130
+[132
 
 
 ]
 Ap\'{e}ndice A.
-) [131] (./libro.aux
+) [133] (./libro.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
- (./proyecto/anteproyecto.aux) (./proyecto/metodologia.aux) (./arquitectura_dis
-eno/organizacion.aux)
+ (./proyecto/anteproyecto.aux)
+(./arquitectura_diseno/organizacion.aux)
 (./arquitectura_diseno/archimate_adm.aux) (./arquitectura_diseno/negocio.aux)
 (./arquitectura_diseno/software.aux) (./arquitectura_diseno/tecnologia.aux)
 (./arquitectura_diseno/motivacion.aux) (./arquitectura_diseno/migracion.aux)
 (./arquitectura_diseno/patrones.aux) (./arquitectura_diseno/creacionales.aux)
 (./arquitectura_diseno/estructurales.aux)
 (./arquitectura_diseno/comportamiento.aux) (./consideraciones/reflexiones.aux)
-(./consideraciones/anexos.aux)) ) 
+(./consideraciones/anexos.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4260 strings out of 492649
- 69436 string characters out of 6129622
- 174155 words of memory out of 5000000
- 7921 multiletter control sequences out of 15000+600000
+ 4338 strings out of 492649
+ 73167 string characters out of 6129622
+ 173855 words of memory out of 5000000
+ 7990 multiletter control sequences out of 15000+600000
  10722 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,36p,326b,627s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmti10.pfb>
-Output written on libro.pdf (131 pages, 721405 bytes).
+ 41i,13n,36p,1845b,620s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on libro.pdf (133 pages, 1088927 bytes).
 PDF statistics:
- 594 PDF objects out of 1000 (max. 8388607)
- 327 compressed objects within 4 object streams
+ 633 PDF objects out of 1000 (max. 8388607)
+ 329 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 341 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 426 words of extra memory for PDF output out of 10000 (max. 10000000)
 
